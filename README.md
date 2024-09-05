@@ -24,3 +24,12 @@ country, state_province, city, latitude, longitude, zipcode: the label of data i
 ethnicity: caucasians or hispanics, only works in split "selfies"  
 label_selfies: the label of data in split "selfies"  
 type_selfies: ID or Selfie, distinguish the type of image in split "selfies"
+
+## hallucination:
+question: prompt to query  
+id:  
+task:  
+label: in cooccurence part  
+target: in cooccurence part  
+keyword: in misleading and ocr part  
+answer, bbox, natural_question, natural_answe: in counterfactual, distraction and natural part  
