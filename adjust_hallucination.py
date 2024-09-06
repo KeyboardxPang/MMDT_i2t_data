@@ -47,6 +47,9 @@ for task in task_list:
             data["id"] = data.pop("idx")
             data["keyword"] = ""
             data["question"] = data.pop("prompt")
+            # change the "‘" in the question to "'"
+            if "\u2019" in data["question"]:
+                data["question"] = data["question"].replace("\u2019", "'")
             data["answer"] = ""
             data["bbox"] = ""
             data["natural_question"] = ""
@@ -84,6 +87,9 @@ for task in task_list:
             data["id"] = data.pop("idx")
             data["keyword"] = ""
             data["question"] = data.pop("prompt")
+            # change the "‘" in the question to "'"
+            if "\u2019" in data["question"]:
+                data["question"] = data["question"].replace("\u2019", "'")
             data["answer"] = ""
             data["bbox"] = ""
             data["natural_question"] = ""
@@ -121,6 +127,9 @@ for task in task_list:
             data["id"] = data.pop("idx")
             data["keyword"] = ""
             data["question"] = data.pop("prompt")
+            # change the "‘" in the question to "'"
+            if "\u2019" in data["question"]:
+                data["question"] = data["question"].replace("\u2019", "'")
             data["answer"] = ""
             data["bbox"] = ""
             data["natural_question"] = ""
