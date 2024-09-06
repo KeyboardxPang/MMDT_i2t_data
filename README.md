@@ -33,3 +33,10 @@ label: in cooccurence part
 target: in cooccurence part  
 keyword: in misleading and ocr part  
 answer, bbox, natural_question, natural_answe: in counterfactual, distraction and natural part  
+
+## ood:
+id: data id  
+img_id: image id  
+question:  
+answer:  
+task: attribute, count, identification and spatial

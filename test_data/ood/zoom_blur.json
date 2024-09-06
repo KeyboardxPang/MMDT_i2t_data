@@ -1,0 +1,1282 @@
+[
+    {
+        "id": "88",
+        "img_id": 486605,
+        "question": "What is the surface type of the area where the skateboarder is performing the jump?",
+        "answer": "['concrete', 'pavement', 'asphalt', 'ground']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/486605.jpg"
+    },
+    {
+        "id": "98",
+        "img_id": 323705,
+        "question": "What is the material used to encase the clock?",
+        "answer": "['brass', 'bronze', 'metal', 'gold']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/323705.jpg"
+    },
+    {
+        "id": "381",
+        "img_id": 468773,
+        "question": "What is the relationship between the cat and the computer mouse?",
+        "answer": "['adjacent', 'beside', 'next to', 'near', 'proximal']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/468773.jpg"
+    },
+    {
+        "id": "36",
+        "img_id": 262896,
+        "question": "What is the color of the trim on the plate?",
+        "answer": "['blue', 'azure', 'cerulean', 'cobalt']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/262896.jpg"
+    },
+    {
+        "id": "238",
+        "img_id": 536879,
+        "question": "What type of device is the man using on his head?",
+        "answer": "['headphones', 'earphones', 'headsets', 'earbuds', 'audio headphones']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/536879.jpg"
+    },
+    {
+        "id": "73",
+        "img_id": 417315,
+        "question": "What is the style or genre of the skateboarding depicted in the scene?",
+        "answer": "['extreme', 'freestyle', 'action', 'street', 'vert', 'aggressive']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/417315.jpg"
+    },
+    {
+        "id": "78",
+        "img_id": 550126,
+        "question": "What is the pattern on the shower curtain?",
+        "answer": "['spiral', 'twirled', 'coiled', 'curled', 'swirled']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/550126.jpg"
+    },
+    {
+        "id": "307",
+        "img_id": 394896,
+        "question": "What is the size of the kite?",
+        "answer": "['small', 'miniature', 'tiny', 'little', 'minuscule']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/394896.jpg"
+    },
+    {
+        "id": "137",
+        "img_id": 23489,
+        "question": "What is the type of boat being used?",
+        "answer": "['speedboat', 'small boat', 'vessel', 'craft', 'watercraft']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/23489.jpg"
+    },
+    {
+        "id": "323",
+        "img_id": 250708,
+        "question": "What is the shape of the cow's horns?",
+        "answer": "['curved', 'bent', 'hooked', 'spiraled', 'twisted']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/250708.jpg"
+    },
+    {
+        "id": "276",
+        "img_id": 519157,
+        "question": "What type of object is the man looking at in the refrigerator?",
+        "answer": "['food', 'groceries', 'provisions', 'edibles', 'comestibles']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/519157.jpg"
+    },
+    {
+        "id": "120",
+        "img_id": 363273,
+        "question": "What is the material used for the vase?",
+        "answer": "['ceramic', 'porcelain', 'earthenware', 'terracotta', 'pottery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/363273.jpg"
+    },
+    {
+        "id": "358",
+        "img_id": 405068,
+        "question": "What is the material used for the furniture in the living room?",
+        "answer": "['leather', 'upholstery', 'fabric', 'textile']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/405068.jpg"
+    },
+    {
+        "id": "123",
+        "img_id": 58708,
+        "question": "What is the style or era of the woman's attire?",
+        "answer": "['18th century', 'vintage', 'classic', 'traditional', 'historical']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/58708.jpg"
+    },
+    {
+        "id": "57",
+        "img_id": 103042,
+        "question": "What is the relationship between the baby zebra and the adult zebra?",
+        "answer": "['mother', 'parent', 'parentage', 'familial', 'familial bond', 'maternal', 'paternal']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/103042.jpg"
+    },
+    {
+        "id": "390",
+        "img_id": 534829,
+        "question": "What is the attire of the people in the scene?",
+        "answer": "['casual', 'informal', 'everyday', 'relaxed', 'laid-back']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/534829.jpg"
+    },
+    {
+        "id": "177",
+        "img_id": 386645,
+        "question": "What is the style or architectural design of the building?",
+        "answer": "['traditional', 'Eastern', 'Asian', 'ancient', 'historic', 'vintage', 'old-fashioned', 'classical']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/386645.jpg"
+    },
+    {
+        "id": "39",
+        "img_id": 576212,
+        "question": "What is the number of keyboards in the scene?",
+        "answer": "['two', 'dual', 'paired', 'multiple']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/576212.jpg"
+    },
+    {
+        "id": "205",
+        "img_id": 242092,
+        "question": "What is the state of the bird?",
+        "answer": "['dead', 'deceased', 'lifeless', 'inanimate', 'expired']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/242092.jpg"
+    },
+    {
+        "id": "10",
+        "img_id": 208135,
+        "question": "What is the surface quality of the snow?",
+        "answer": "['powdery', 'fluffy', 'granular', 'smooth', 'icy']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/208135.jpg"
+    },
+    {
+        "id": "183",
+        "img_id": 139971,
+        "question": "What is the color of the stall doors?",
+        "answer": "['brown', 'tanned', 'chocolate', 'umber']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/139971.jpg"
+    },
+    {
+        "id": "257",
+        "img_id": 100603,
+        "question": "What is the terrain or surface that the horse is traversing?",
+        "answer": "['hillside', 'slope', 'mountain', 'incline', 'gradient', 'terrain', 'landscape']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/100603.jpg"
+    },
+    {
+        "id": "221",
+        "img_id": 123975,
+        "question": "What is the surface or terrain type of the road?",
+        "answer": "['dirt', 'earth', 'ground', 'terrain', 'trail', 'path']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/123975.jpg"
+    },
+    {
+        "id": "115",
+        "img_id": 412847,
+        "question": "What is the posture or position of the giraffe?",
+        "answer": "['bending', 'stooping', 'crouching', 'kneeling', 'stoop']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/412847.jpg"
+    },
+    {
+        "id": "23",
+        "img_id": 212846,
+        "question": "What is the appearance of the fire hydrant's facial features?",
+        "answer": "['painted', 'decorated', 'adorned', 'embellished', 'ornamented']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/212846.jpg"
+    },
+    {
+        "id": "179",
+        "img_id": 462477,
+        "question": "What is the type of garment worn by the men in the kitchen?",
+        "answer": "['aprons', 'waistcoats', 'vests', 'tunics']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/462477.jpg"
+    },
+    {
+        "id": "164",
+        "img_id": 443192,
+        "question": "What is the position or posture of the man in the scene?",
+        "answer": "['sitting', 'reclining', 'lying', 'reclined', 'seated']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/443192.jpg"
+    },
+    {
+        "id": "62",
+        "img_id": 12731,
+        "question": "What is the material used to make the train cars?",
+        "answer": "['model', 'miniature', 'scale', 'toy', 'plastic']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/12731.jpg"
+    },
+    {
+        "id": "148",
+        "img_id": 109169,
+        "question": "What is the material used to make the clock?",
+        "answer": "['gold', 'golden', 'yellow', 'aurous', 'metallic']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/109169.jpg"
+    },
+    {
+        "id": "136",
+        "img_id": 515229,
+        "question": "What is the position of the man in relation to the motorcycle?",
+        "answer": "['sitting', 'perched', 'mounted', 'astride', 'on']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/515229.jpg"
+    },
+    {
+        "id": "348",
+        "img_id": 335826,
+        "question": "What is the type of figure depicted on the street sign?",
+        "answer": "['person', 'human', 'figure', 'individual', 'human form', 'human representation']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/335826.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 19712,
+        "question": "What is the facial expression of the person pointing up to the sky?",
+        "answer": "['smiling', 'beaming', 'grinning', 'cheerful', 'joyful']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/19712.jpg"
+    },
+    {
+        "id": "149",
+        "img_id": 543272,
+        "question": "What is the color of the airplane?",
+        "answer": "['white', 'snowy', 'ivory', 'creamy']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/543272.jpg"
+    },
+    {
+        "id": "3",
+        "img_id": 17667,
+        "question": "What is the shape of the boat?",
+        "answer": "['long', 'elongated', 'slender', 'linear']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/17667.jpg"
+    },
+    {
+        "id": "317",
+        "img_id": 571880,
+        "question": "What is the transparency of the water tank?",
+        "answer": "['clear', 'transparent', 'translucent', 'see-through']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/571880.jpg"
+    },
+    {
+        "id": "102",
+        "img_id": 245603,
+        "question": "What is the texture of the grass in the field?",
+        "answer": "['lush', 'verdant', 'green', 'emerald', 'verdurous']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/245603.jpg"
+    },
+    {
+        "id": "332",
+        "img_id": 30001,
+        "question": "What is the shape of the keyboard?",
+        "answer": "['rectangular', 'square-shaped', 'flat', 'flat-faced']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/30001.jpg"
+    },
+    {
+        "id": "43",
+        "img_id": 305425,
+        "question": "What is the weather condition in the scene?",
+        "answer": "['rainy', 'wet', 'precipitation', 'precipitationary', 'inclement weather']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/305425.jpg"
+    },
+    {
+        "id": "397",
+        "img_id": 474118,
+        "question": "What is the location of the woman in the scene?",
+        "answer": "['outside', 'exterior', 'outdoors', 'external', 'external environment']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/474118.jpg"
+    },
+    {
+        "id": "308",
+        "img_id": 163142,
+        "question": "What is the shape of the elephant's eye?",
+        "answer": "['almond', 'elliptical', 'oval', 'rounded', 'elliptoid']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/163142.jpg"
+    },
+    {
+        "id": "357",
+        "img_id": 367873,
+        "question": "How many books, horses, and beds are there?",
+        "answer": "{'book': 2, 'horse': 1, 'bed': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/367873.jpg"
+    },
+    {
+        "id": "113",
+        "img_id": 222370,
+        "question": "How many cars, people, and motorcycles are there?",
+        "answer": "{'car': 1, 'person': 3, 'motorcycle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/222370.jpg"
+    },
+    {
+        "id": "95",
+        "img_id": 229427,
+        "question": "How many potted plants, remotes, and people are there?",
+        "answer": "{'potted plant': 1, 'remote': 2, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/229427.jpg"
+    },
+    {
+        "id": "150",
+        "img_id": 247234,
+        "question": "How many cars, couches, and laptops are there?",
+        "answer": "{'car': 2, 'couch': 1, 'laptop': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/247234.jpg"
+    },
+    {
+        "id": "278",
+        "img_id": 423083,
+        "question": "How many mice, tvs, and bottles are there?",
+        "answer": "{'mouse': 1, 'tv': 2, 'bottle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/423083.jpg"
+    },
+    {
+        "id": "323",
+        "img_id": 127603,
+        "question": "How many cars, trucks, and fire hydrants are there?",
+        "answer": "{'car': 2, 'truck': 1, 'fire hydrant': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/127603.jpg"
+    },
+    {
+        "id": "351",
+        "img_id": 124893,
+        "question": "How many couches, chairs, and tvs are there?",
+        "answer": "{'couch': 2, 'chair': 2, 'tv': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/124893.jpg"
+    },
+    {
+        "id": "147",
+        "img_id": 511062,
+        "question": "How many people, surfboards, and backpacks are there?",
+        "answer": "{'person': 2, 'surfboard': 1, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/511062.jpg"
+    },
+    {
+        "id": "64",
+        "img_id": 94033,
+        "question": "How many people, frisbees, and handbags are there?",
+        "answer": "{'person': 2, 'frisbee': 2, 'handbag': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/94033.jpg"
+    },
+    {
+        "id": "76",
+        "img_id": 253143,
+        "question": "How many ski, backpacks, and people are there?",
+        "answer": "{'skis': 2, 'backpack': 2, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/253143.jpg"
+    },
+    {
+        "id": "146",
+        "img_id": 516570,
+        "question": "How many baseball bats, people, and sports balls are there?",
+        "answer": "{'baseball bat': 1, 'person': 3, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/516570.jpg"
+    },
+    {
+        "id": "265",
+        "img_id": 103119,
+        "question": "How many spoons, ovens, and microwaves are there?",
+        "answer": "{'spoon': 2, 'oven': 1, 'microwave': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/103119.jpg"
+    },
+    {
+        "id": "363",
+        "img_id": 404812,
+        "question": "How many remotes, dogs, and couches are there?",
+        "answer": "{'remote': 2, 'dog': 1, 'couch': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/404812.jpg"
+    },
+    {
+        "id": "352",
+        "img_id": 568731,
+        "question": "How many spoons, bowls, and sandwiches are there?",
+        "answer": "{'spoon': 1, 'bowl': 1, 'sandwich': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/568731.jpg"
+    },
+    {
+        "id": "280",
+        "img_id": 516265,
+        "question": "How many laptops, teddy bears, and cups are there?",
+        "answer": "{'laptop': 1, 'teddy bear': 2, 'cup': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/516265.jpg"
+    },
+    {
+        "id": "92",
+        "img_id": 258071,
+        "question": "How many dining tables, chairs, and people are there?",
+        "answer": "{'dining table': 1, 'chair': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/258071.jpg"
+    },
+    {
+        "id": "294",
+        "img_id": 457268,
+        "question": "How many bottles, toothbrushes, and toilets are there?",
+        "answer": "{'bottle': 1, 'toothbrush': 3, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/457268.jpg"
+    },
+    {
+        "id": "131",
+        "img_id": 71970,
+        "question": "How many buses, cows, and traffic lights are there?",
+        "answer": "{'bus': 1, 'cow': 3, 'traffic light': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/71970.jpg"
+    },
+    {
+        "id": "365",
+        "img_id": 56341,
+        "question": "How many tvs, chairs, and potted plants are there?",
+        "answer": "{'tv': 1, 'chair': 2, 'potted plant': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/56341.jpg"
+    },
+    {
+        "id": "388",
+        "img_id": 53263,
+        "question": "How many dining tables, cakes, and people are there?",
+        "answer": "{'dining table': 1, 'cake': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/53263.jpg"
+    },
+    {
+        "id": "68",
+        "img_id": 30347,
+        "question": "How many ovens, chairs, and people are there?",
+        "answer": "{'oven': 1, 'chair': 3, 'person': 4}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/30347.jpg"
+    },
+    {
+        "id": "241",
+        "img_id": 301603,
+        "question": "How many cups, laptops, and clocks are there?",
+        "answer": "{'cup': 2, 'laptop': 1, 'clock': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/301603.jpg"
+    },
+    {
+        "id": "373",
+        "img_id": 69383,
+        "question": "How many chairs, dogs, and people are there?",
+        "answer": "{'chair': 2, 'dog': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/69383.jpg"
+    },
+    {
+        "id": "251",
+        "img_id": 344271,
+        "question": "How many bottles, apples, and trains are there?",
+        "answer": "{'bottle': 2, 'apple': 1, 'train': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/344271.jpg"
+    },
+    {
+        "id": "28",
+        "img_id": 517906,
+        "question": "How many people, sports balls, and tennis rackets are there?",
+        "answer": "{'person': 1, 'sports ball': 2, 'tennis racket': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/517906.jpg"
+    },
+    {
+        "id": "168",
+        "img_id": 111649,
+        "question": "How many boats, sports balls, and baseball bats are there?",
+        "answer": "{'boat': 2, 'sports ball': 1, 'baseball bat': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/111649.jpg"
+    },
+    {
+        "id": "0",
+        "img_id": 118118,
+        "question": "How many bowls, pizzas, and knives are there?",
+        "answer": "{'bowl': 3, 'pizza': 1, 'knife': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/118118.jpg"
+    },
+    {
+        "id": "281",
+        "img_id": 84230,
+        "question": "How many horses, ties, and people are there?",
+        "answer": "{'horse': 1, 'tie': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/84230.jpg"
+    },
+    {
+        "id": "309",
+        "img_id": 424108,
+        "question": "How many dining tables, chairs, and potted plants are there?",
+        "answer": "{'dining table': 1, 'chair': 2, 'potted plant': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/424108.jpg"
+    },
+    {
+        "id": "105",
+        "img_id": 545317,
+        "question": "How many vases, sinks, and toilets are there?",
+        "answer": "{'vase': 2, 'sink': 1, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/545317.jpg"
+    },
+    {
+        "id": "117",
+        "img_id": 27149,
+        "question": "How many tvs, people, and couches are there?",
+        "answer": "{'tv': 1, 'person': 2, 'couch': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/27149.jpg"
+    },
+    {
+        "id": "96",
+        "img_id": 446365,
+        "question": "How many spoons, cups, and cakes are there?",
+        "answer": "{'spoon': 2, 'cup': 1, 'cake': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/446365.jpg"
+    },
+    {
+        "id": "114",
+        "img_id": 79244,
+        "question": "How many people, benches, and dogs are there?",
+        "answer": "{'person': 2, 'bench': 1, 'dog': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/79244.jpg"
+    },
+    {
+        "id": "8",
+        "img_id": 65238,
+        "question": "How many sports balls, people, and tennis rackets are there?",
+        "answer": "{'sports ball': 1, 'person': 2, 'tennis racket': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/65238.jpg"
+    },
+    {
+        "id": "45",
+        "img_id": 380425,
+        "question": "How many cars, people, and baseball bats are there?",
+        "answer": "{'car': 1, 'person': 3, 'baseball bat': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/380425.jpg"
+    },
+    {
+        "id": "349",
+        "img_id": 223595,
+        "question": "How many people, baseball bats, and sports balls are there?",
+        "answer": "{'person': 3, 'baseball bat': 1, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/223595.jpg"
+    },
+    {
+        "id": "138",
+        "img_id": 529311,
+        "question": "How many people, tennis rackets, and sports balls are there?",
+        "answer": "{'person': 3, 'tennis racket': 2, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/529311.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 540569,
+        "question": "How many motorcycles, handbags, and buses are there?",
+        "answer": "{'motorcycle': 2, 'handbag': 2, 'bus': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/540569.jpg"
+    },
+    {
+        "id": "263",
+        "img_id": 309413,
+        "question": "How many baseball gloves, baseball bats, and people are there?",
+        "answer": "{'baseball glove': 1, 'baseball bat': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/309413.jpg"
+    },
+    {
+        "id": "109",
+        "img_id": 42418,
+        "question": "How many tennis rackets, cars, and umbrellas are there?",
+        "answer": "{'tennis racket': 1, 'car': 2, 'umbrella': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/42418.jpg"
+    },
+    {
+        "id": "330",
+        "img_id": 516105,
+        "question": "What object is the bicyclist riding on?",
+        "answer": "['road', 'highway', 'street', 'pavement', 'asphalt']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/516105.jpg"
+    },
+    {
+        "id": "46",
+        "img_id": 244428,
+        "question": "What is the object holding the fruit in the middle of the kitchen table?",
+        "answer": "['fruit bowl', 'plate', 'dish', 'vessel', 'container']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/244428.jpg"
+    },
+    {
+        "id": "132",
+        "img_id": 336015,
+        "question": "What object is the man using to move down the snow-covered hillside?",
+        "answer": "['skis', 'ski', 'downhill skis', 'snow skis', 'winter sports equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/336015.jpg"
+    },
+    {
+        "id": "13",
+        "img_id": 485785,
+        "question": "What object is suspended with a chain in the park overlooking the water and the city?",
+        "answer": "['swing', 'bench', 'seat', 'suspension', 'hanging', 'park furniture']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/485785.jpg"
+    },
+    {
+        "id": "55",
+        "img_id": 467491,
+        "question": "What is the type of bird standing next to each other in the marshland?",
+        "answer": "['cranes', 'ducks', 'waterfowl', 'birds', 'white birds']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/467491.jpg"
+    },
+    {
+        "id": "193",
+        "img_id": 243464,
+        "question": "What object is the couple posing with in the background?",
+        "answer": "['giraffe', 'tall animal', 'long-necked mammal', 'equine', 'quadruped']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/243464.jpg"
+    },
+    {
+        "id": "331",
+        "img_id": 205681,
+        "question": "What type of watercraft is the person riding in the water?",
+        "answer": "['kayak', 'canoe', 'small boat', 'paddle boat', 'rowboat']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/205681.jpg"
+    },
+    {
+        "id": "319",
+        "img_id": 299548,
+        "question": "What is the object that the train is pulling into the station?",
+        "answer": "['train station', 'railroad tracks', 'platform', 'terminal', 'depot']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/299548.jpg"
+    },
+    {
+        "id": "229",
+        "img_id": 237701,
+        "question": "What object is the man holding in the department store?",
+        "answer": "['umbrella', 'parasol', 'canopy', 'rain shelter', 'weather shield']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/237701.jpg"
+    },
+    {
+        "id": "47",
+        "img_id": 378049,
+        "question": "What object is the big brown dog holding onto in the snow?",
+        "answer": "['frisbee', 'disc', 'toy', 'yellow toy', 'flying disc']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/378049.jpg"
+    },
+    {
+        "id": "195",
+        "img_id": 292617,
+        "question": "What object is situated beneath the flat screen TV in the living room?",
+        "answer": "['fireplace', 'hearth', 'chimney', 'mantel', 'TV stand']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/292617.jpg"
+    },
+    {
+        "id": "304",
+        "img_id": 227186,
+        "question": "What object is the man holding in his hand while riding the bicycle?",
+        "answer": "['cellphone', 'mobile phone', 'phone', 'handheld device']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/227186.jpg"
+    },
+    {
+        "id": "339",
+        "img_id": 236954,
+        "question": "What object is the two dogs sitting on in the back seat of the car?",
+        "answer": "['mat', 'blanket', 'seat cover', 'car seat', 'backseat cushion']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/236954.jpg"
+    },
+    {
+        "id": "205",
+        "img_id": 308592,
+        "question": "What object is holding the pizza?",
+        "answer": "['pizza box', 'cardboard box', 'container', 'food box']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/308592.jpg"
+    },
+    {
+        "id": "51",
+        "img_id": 239532,
+        "question": "What object is the group of people standing on or near?",
+        "answer": "['dock', 'pier', 'wharf', 'harbor', 'jetty', 'boat ramp', \"water's edge\"]",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/239532.jpg"
+    },
+    {
+        "id": "105",
+        "img_id": 178751,
+        "question": "What object is the woman holding in the snowy landscape?",
+        "answer": "['skis', 'ski equipment', 'snow skis', 'downhill skis', 'winter sports gear']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/178751.jpg"
+    },
+    {
+        "id": "225",
+        "img_id": 309005,
+        "question": "What object is sitting in the cluttered living room?",
+        "answer": "['stroller', 'baby carriage', 'pram', 'pushchair']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/309005.jpg"
+    },
+    {
+        "id": "97",
+        "img_id": 396727,
+        "question": "What type of vehicle is depicted in the captions, characterized by its bright orange color and size?",
+        "answer": "['orange bus', 'Irvings of Carlisle bus', 'Carlisle bus', 'double-decker bus', 'coach', 'public transportation vehicle']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/396727.jpg"
+    },
+    {
+        "id": "185",
+        "img_id": 454252,
+        "question": "What object is being held by the group of people in the room?",
+        "answer": "['wine glasses', 'glasses', 'cups', 'stemware', 'drinkware']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/454252.jpg"
+    },
+    {
+        "id": "136",
+        "img_id": 544312,
+        "question": "What object is being thrown by the woman in the yellow shirt?",
+        "answer": "['controller', 'gamepad', 'joystick', 'console', 'gaming device']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/544312.jpg"
+    },
+    {
+        "id": "114",
+        "img_id": 280235,
+        "question": "What object is the cat standing on in the bathroom?",
+        "answer": "['toilet', 'toilet bowl', 'toilet rim', 'porcelain', 'bathroom fixture']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/280235.jpg"
+    },
+    {
+        "id": "139",
+        "img_id": 379409,
+        "question": "What type of vehicle is parked in the parking space?",
+        "answer": "['pickup truck', 'old truck', 'vintage truck', 'truck', 'pickup']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/379409.jpg"
+    },
+    {
+        "id": "344",
+        "img_id": 307341,
+        "question": "What object is the person using to move down the snowy slope?",
+        "answer": "['skis', 'ski', 'snowboard', 'downhill equipment', 'winter sports gear']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/307341.jpg"
+    },
+    {
+        "id": "180",
+        "img_id": 176519,
+        "question": "What object is the young child riding in the ocean?",
+        "answer": "['surfboard', 'surf', 'wave rider', 'board', 'paddleboard']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/176519.jpg"
+    },
+    {
+        "id": "249",
+        "img_id": 465853,
+        "question": "What object is being decorated with stickers in this scene?",
+        "answer": "['street sign', 'traffic sign', 'sign', 'marker', 'indicator']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/465853.jpg"
+    },
+    {
+        "id": "109",
+        "img_id": 42970,
+        "question": "What type of vehicle is being ridden by the group of people in the scene?",
+        "answer": "['motorcycle', 'scooter', 'moped', 'bike', 'two-wheeler']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/42970.jpg"
+    },
+    {
+        "id": "321",
+        "img_id": 346547,
+        "question": "What is the object emerging from the five brown vases?",
+        "answer": "['stems', 'stalks', 'branches', 'wiry stems', 'plant stems']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/346547.jpg"
+    },
+    {
+        "id": "231",
+        "img_id": 502847,
+        "question": "What object is the cat looking out of?",
+        "answer": "['car window', 'vehicle window', 'back window', 'rear window', 'automobile window']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/502847.jpg"
+    },
+    {
+        "id": "74",
+        "img_id": 147972,
+        "question": "What is the object being ridden by the person in the city street scene?",
+        "answer": "['elephant', 'pachyderm', 'beast', 'animal', 'ride', 'mount']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/147972.jpg"
+    },
+    {
+        "id": "148",
+        "img_id": 299738,
+        "question": "What object is being held by one of the men in the scene?",
+        "answer": "['remote control', 'TV controller', 'television remote', 'control device']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/299738.jpg"
+    },
+    {
+        "id": "116",
+        "img_id": 146501,
+        "question": "What object is the police car blocking or sitting in front of?",
+        "answer": "['barricades', 'traffic lights', 'roadblock', 'intersection', 'street closure']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/146501.jpg"
+    },
+    {
+        "id": "181",
+        "img_id": 493212,
+        "question": "What is the object on top of the white paper plate?",
+        "answer": "['funnel cake', 'dessert', 'sweet treat', 'powdered sugar', 'fried dough', 'pastry']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/493212.jpg"
+    },
+    {
+        "id": "78",
+        "img_id": 87595,
+        "question": "What object is the white cat sitting next to or leaning on?",
+        "answer": "['laptop', 'computer', 'monitor', 'notebook', 'portable computer']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/87595.jpg"
+    },
+    {
+        "id": "347",
+        "img_id": 472327,
+        "question": "What object is being used by the woman to take a picture while also providing protection from the elements?",
+        "answer": "['umbrella', 'parasol', 'sunshade', 'canopy', 'rain shelter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/472327.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 414350,
+        "question": "What is the object with multiple markers hanging every which way?",
+        "answer": "['street sign', 'road sign', 'directional sign', 'signpost', 'marker', 'indicator']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/414350.jpg"
+    },
+    {
+        "id": "230",
+        "img_id": 302323,
+        "question": "What object is placed on the bed?",
+        "answer": "['laptop', 'computer', 'notebook', 'portable computer']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/302323.jpg"
+    },
+    {
+        "id": "108",
+        "img_id": 124266,
+        "question": "What is the type of animal standing in the grass?",
+        "answer": "['sheep', 'ovine', 'ruminant', 'livestock', 'grassland animal']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/124266.jpg"
+    },
+    {
+        "id": "8",
+        "img_id": 420229,
+        "question": "What is the object being held above the apple?",
+        "answer": "['apple slicer', 'fruit slicer', 'corer', 'peeler', 'cutter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/420229.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 459255,
+        "question": "What object is the man holding while jumping in the air?",
+        "answer": "['tennis racquet', 'tennis racket', 'racket', 'racquet']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/459255.jpg"
+    },
+    {
+        "id": "294",
+        "img_id": 299641,
+        "question": "What is the object sitting in the grassy field?",
+        "answer": "['wooden boat', 'boat', 'ride', 'enclosure', 'play structure', 'playhouse', 'play area', 'merry-go-round', 'carousel']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/299641.jpg"
+    },
+    {
+        "id": "204",
+        "img_id": 304930,
+        "question": "Where is the cell phone in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/304930.jpg"
+    },
+    {
+        "id": "44",
+        "img_id": 490887,
+        "question": "Where is the person in relation to the motorcycle?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/490887.jpg"
+    },
+    {
+        "id": "128",
+        "img_id": 489735,
+        "question": "Where is the chair in relation to the spoon?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/489735.jpg"
+    },
+    {
+        "id": "302",
+        "img_id": 21190,
+        "question": "Where is the mouse in relation to the keyboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/21190.jpg"
+    },
+    {
+        "id": "338",
+        "img_id": 488563,
+        "question": "Where is the bed in relation to the laptop?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/488563.jpg"
+    },
+    {
+        "id": "152",
+        "img_id": 544089,
+        "question": "Where is the book in relation to the cake?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/544089.jpg"
+    },
+    {
+        "id": "73",
+        "img_id": 76681,
+        "question": "Where is the frisbee in relation to the handbag?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/76681.jpg"
+    },
+    {
+        "id": "344",
+        "img_id": 38034,
+        "question": "Where is the chair in relation to the keyboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/38034.jpg"
+    },
+    {
+        "id": "299",
+        "img_id": 64342,
+        "question": "Where is the bottle in relation to the microwave?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/64342.jpg"
+    },
+    {
+        "id": "8",
+        "img_id": 348957,
+        "question": "Where is the book in relation to the tv?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/348957.jpg"
+    },
+    {
+        "id": "365",
+        "img_id": 535080,
+        "question": "Where is the book in relation to the suitcase?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/535080.jpg"
+    },
+    {
+        "id": "187",
+        "img_id": 501696,
+        "question": "Where is the book in relation to the suitcase?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/501696.jpg"
+    },
+    {
+        "id": "191",
+        "img_id": 255203,
+        "question": "Where is the spoon in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/255203.jpg"
+    },
+    {
+        "id": "65",
+        "img_id": 316085,
+        "question": "Where is the mouse in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/316085.jpg"
+    },
+    {
+        "id": "103",
+        "img_id": 137150,
+        "question": "Where is the cow in relation to the truck?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/137150.jpg"
+    },
+    {
+        "id": "139",
+        "img_id": 355620,
+        "question": "Where is the bench in relation to the chair?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/355620.jpg"
+    },
+    {
+        "id": "356",
+        "img_id": 58630,
+        "question": "Where is the person in relation to the sports ball?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/58630.jpg"
+    },
+    {
+        "id": "332",
+        "img_id": 128254,
+        "question": "Where is the sink in relation to the book?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/128254.jpg"
+    },
+    {
+        "id": "217",
+        "img_id": 564288,
+        "question": "Where is the handbag in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/564288.jpg"
+    },
+    {
+        "id": "238",
+        "img_id": 468319,
+        "question": "Where is the sports ball in relation to the person?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/468319.jpg"
+    },
+    {
+        "id": "214",
+        "img_id": 519429,
+        "question": "Where is the umbrella in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/519429.jpg"
+    },
+    {
+        "id": "303",
+        "img_id": 434930,
+        "question": "Where is the person in relation to the donut?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/434930.jpg"
+    },
+    {
+        "id": "64",
+        "img_id": 397705,
+        "question": "Where is the person in relation to the bed?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/397705.jpg"
+    },
+    {
+        "id": "178",
+        "img_id": 465556,
+        "question": "Where is the chair in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/465556.jpg"
+    },
+    {
+        "id": "351",
+        "img_id": 543869,
+        "question": "Where is the chair in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/543869.jpg"
+    },
+    {
+        "id": "144",
+        "img_id": 194247,
+        "question": "Where is the backpack in relation to the laptop?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/194247.jpg"
+    },
+    {
+        "id": "232",
+        "img_id": 155892,
+        "question": "Where is the knife in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/155892.jpg"
+    },
+    {
+        "id": "389",
+        "img_id": 335735,
+        "question": "Where is the person in relation to the sports ball?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/335735.jpg"
+    },
+    {
+        "id": "158",
+        "img_id": 183202,
+        "question": "Where is the cell phone in relation to the cat?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/183202.jpg"
+    },
+    {
+        "id": "367",
+        "img_id": 532414,
+        "question": "Where is the frisbee in relation to the dog?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/532414.jpg"
+    },
+    {
+        "id": "97",
+        "img_id": 88433,
+        "question": "Where is the skis in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/88433.jpg"
+    },
+    {
+        "id": "341",
+        "img_id": 237423,
+        "question": "Where is the laptop in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/237423.jpg"
+    },
+    {
+        "id": "195",
+        "img_id": 42182,
+        "question": "Where is the oven in relation to the clock?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/42182.jpg"
+    },
+    {
+        "id": "264",
+        "img_id": 425472,
+        "question": "Where is the person in relation to the bench?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/425472.jpg"
+    },
+    {
+        "id": "31",
+        "img_id": 509783,
+        "question": "Where is the bench in relation to the elephant?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/509783.jpg"
+    },
+    {
+        "id": "67",
+        "img_id": 391971,
+        "question": "Where is the tennis racket in relation to the chair?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/391971.jpg"
+    },
+    {
+        "id": "205",
+        "img_id": 171199,
+        "question": "Where is the cup in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/171199.jpg"
+    },
+    {
+        "id": "86",
+        "img_id": 316524,
+        "question": "Where is the handbag in relation to the person?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/316524.jpg"
+    },
+    {
+        "id": "255",
+        "img_id": 103817,
+        "question": "Where is the bicycle in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/103817.jpg"
+    },
+    {
+        "id": "322",
+        "img_id": 271500,
+        "question": "Where is the book in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/zoom_blur/271500.jpg"
+    }
+]

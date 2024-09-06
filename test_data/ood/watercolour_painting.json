@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "64",
+        "img_id": 42862,
+        "question": "What is the material used for the bench?",
+        "answer": "['wooden', 'timber', 'lumber', 'woodwork']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/42862.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 112988,
+        "question": "What is the state of the cake?",
+        "answer": "['half-eaten', 'partially consumed', 'partially devoured', 'partially finished', 'partially consumed']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/112988.jpg"
+    },
+    {
+        "id": "98",
+        "img_id": 323705,
+        "question": "What is the material used to encase the clock?",
+        "answer": "['brass', 'bronze', 'metal', 'gold']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/323705.jpg"
+    },
+    {
+        "id": "112",
+        "img_id": 86564,
+        "question": "What is the texture of the pastry being eaten by the child?",
+        "answer": "['frosted', 'sugary', 'sweet', 'creamy', 'soft']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/86564.jpg"
+    },
+    {
+        "id": "120",
+        "img_id": 363273,
+        "question": "What is the material used for the vase?",
+        "answer": "['ceramic', 'porcelain', 'earthenware', 'terracotta', 'pottery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/363273.jpg"
+    },
+    {
+        "id": "137",
+        "img_id": 23489,
+        "question": "What is the type of boat being used?",
+        "answer": "['speedboat', 'small boat', 'vessel', 'craft', 'watercraft']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/23489.jpg"
+    },
+    {
+        "id": "152",
+        "img_id": 377119,
+        "question": "What is the type of skiing being done in the scene?",
+        "answer": "['cross-country', 'Nordic', 'backcountry', 'diagonal', 'touring']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/377119.jpg"
+    },
+    {
+        "id": "196",
+        "img_id": 328783,
+        "question": "What is the surface or terrain that the giraffe is walking on?",
+        "answer": "['dirt', 'earth', 'ground', 'soil', 'terrain']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/328783.jpg"
+    },
+    {
+        "id": "207",
+        "img_id": 334938,
+        "question": "What is the color of the refrigerator?",
+        "answer": "['black', 'dark', 'gray', 'silver', 'grey']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/334938.jpg"
+    },
+    {
+        "id": "254",
+        "img_id": 144747,
+        "question": "What is the shape of the dessert?",
+        "answer": "['round', 'circular', 'curved', 'spherical', 'domed']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/144747.jpg"
+    },
+    {
+        "id": "259",
+        "img_id": 461775,
+        "question": "What is the surface that the cat is laying on?",
+        "answer": "['pavement', 'road', 'ground', 'asphalt', 'concrete']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/461775.jpg"
+    },
+    {
+        "id": "260",
+        "img_id": 184972,
+        "question": "What is the style or design of the tie worn by the man?",
+        "answer": "['silly', 'sassy', 'playful', 'humorous', 'whimsical', 'quirky', 'eccentric']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/184972.jpg"
+    },
+    {
+        "id": "286",
+        "img_id": 49979,
+        "question": "What is the surface or terrain type where the group of bikers and motorcycles are parked?",
+        "answer": "['dirt', 'earth', 'ground', 'soil', 'terrain', 'land', 'surface']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/49979.jpg"
+    },
+    {
+        "id": "367",
+        "img_id": 213537,
+        "question": "What is the type of boat being ridden by the man?",
+        "answer": "['motorboat', 'speedboat', 'powerboat', 'small boat', 'vessel']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/213537.jpg"
+    },
+    {
+        "id": "366",
+        "img_id": 404254,
+        "question": "What is the material used for the objects described in the captions?",
+        "answer": "['silver', 'metallic', 'metallicware', 'cutlery', 'utensils']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/404254.jpg"
+    },
+    {
+        "id": "5",
+        "img_id": 47481,
+        "question": "What is the material used for the kitchen appliance?",
+        "answer": "['stainless', 'steel', 'metallic', 'metal']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/47481.jpg"
+    },
+    {
+        "id": "13",
+        "img_id": 368893,
+        "question": "What is the shape of the sign?",
+        "answer": "['rectangular', 'square', 'flat']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/368893.jpg"
+    },
+    {
+        "id": "20",
+        "img_id": 396188,
+        "question": "What is the type of vehicle being ridden by the cop?",
+        "answer": "['motorcycle', 'bike', 'cycle', 'motorbike']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/396188.jpg"
+    },
+    {
+        "id": "41",
+        "img_id": 499037,
+        "question": "What is the color of the skier's pants?",
+        "answer": "['brown', 'tanned', 'beige', 'earthy']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/499037.jpg"
+    },
+    {
+        "id": "43",
+        "img_id": 305425,
+        "question": "What is the weather condition in the scene?",
+        "answer": "['rainy', 'wet', 'precipitation', 'precipitationary', 'inclement weather']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/305425.jpg"
+    },
+    {
+        "id": "73",
+        "img_id": 417315,
+        "question": "What is the style or genre of the skateboarding depicted in the scene?",
+        "answer": "['extreme', 'freestyle', 'action', 'street', 'vert', 'aggressive']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/417315.jpg"
+    },
+    {
+        "id": "134",
+        "img_id": 455464,
+        "question": "What is the shape of the telephone?",
+        "answer": "['rectangular', 'square', 'box-like', 'cuboid']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/455464.jpg"
+    },
+    {
+        "id": "143",
+        "img_id": 549317,
+        "question": "What is the material used for the walls in the bathroom?",
+        "answer": "['tile', 'ceramic', 'porcelain']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/549317.jpg"
+    },
+    {
+        "id": "153",
+        "img_id": 217959,
+        "question": "What is the type of enclosure used to confine the cows?",
+        "answer": "['pen', 'cage', 'enclosure', 'barrier', 'fence']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/217959.jpg"
+    },
+    {
+        "id": "183",
+        "img_id": 139971,
+        "question": "What is the color of the stall doors?",
+        "answer": "['brown', 'tanned', 'chocolate', 'umber']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/139971.jpg"
+    },
+    {
+        "id": "202",
+        "img_id": 432997,
+        "question": "What is the state of the kitchen utensils and dishes?",
+        "answer": "['dirty', 'grimy', 'filthy', 'unclean', 'soiled']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/432997.jpg"
+    },
+    {
+        "id": "241",
+        "img_id": 202571,
+        "question": "What is the nature of the girl's grip on the string?",
+        "answer": "['firm', 'tight', 'secure', 'steady', 'unwavering']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/202571.jpg"
+    },
+    {
+        "id": "346",
+        "img_id": 305464,
+        "question": "What is the purpose of the bucket and pot in the bathroom?",
+        "answer": "['cleaning', 'utility', 'storage', 'container', 'receptacle']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/305464.jpg"
+    },
+    {
+        "id": "376",
+        "img_id": 565387,
+        "question": "What is the emotional state of the people surrounding the motorcyclist?",
+        "answer": "['concerned', 'worried', 'anxious', 'distressed', 'apprehensive']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/565387.jpg"
+    },
+    {
+        "id": "387",
+        "img_id": 97371,
+        "question": "What is the shape of the kitchen counter?",
+        "answer": "['rectangular', 'square', 'flat', 'horizontal']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/97371.jpg"
+    },
+    {
+        "id": "21",
+        "img_id": 162043,
+        "question": "What is the location of the bus?",
+        "answer": "['parked', 'stationary', 'stopped', 'halted', 'situated']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/162043.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 19712,
+        "question": "What is the facial expression of the person pointing up to the sky?",
+        "answer": "['smiling', 'beaming', 'grinning', 'cheerful', 'joyful']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/19712.jpg"
+    },
+    {
+        "id": "61",
+        "img_id": 303556,
+        "question": "What is the texture of the beach where the man and woman are playing with the frisbee?",
+        "answer": "['sandy', 'grainy', 'coarse', 'fine', 'powdery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/303556.jpg"
+    },
+    {
+        "id": "79",
+        "img_id": 166979,
+        "question": "What is the color of the boat?",
+        "answer": "['red', 'crimson', 'scarlet', 'vermilion']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/166979.jpg"
+    },
+    {
+        "id": "83",
+        "img_id": 9603,
+        "question": "What is the terrain or surface that the cows are standing on?",
+        "answer": "['hillside', 'slope', 'incline', 'gradient', 'terrain', 'landscape']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/9603.jpg"
+    },
+    {
+        "id": "86",
+        "img_id": 109638,
+        "question": "What is the shape of the vase?",
+        "answer": "['cylindrical', 'tubular', 'conical', 'rounded', 'curved']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/109638.jpg"
+    },
+    {
+        "id": "88",
+        "img_id": 486605,
+        "question": "What is the surface type of the area where the skateboarder is performing the jump?",
+        "answer": "['concrete', 'pavement', 'asphalt', 'ground']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/486605.jpg"
+    },
+    {
+        "id": "110",
+        "img_id": 146626,
+        "question": "What is the shape of the ball being thrown at the batter?",
+        "answer": "['spherical', 'round', 'circular', 'globular', 'orbicular']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/146626.jpg"
+    },
+    {
+        "id": "115",
+        "img_id": 412847,
+        "question": "What is the posture or position of the giraffe?",
+        "answer": "['bending', 'stooping', 'crouching', 'kneeling', 'stoop']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/412847.jpg"
+    },
+    {
+        "id": "132",
+        "img_id": 329797,
+        "question": "What is the state of the sky in the scene?",
+        "answer": "['cloudy', 'overcast', 'gloomy', 'misty', 'foggy']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/329797.jpg"
+    },
+    {
+        "id": "22",
+        "img_id": 421229,
+        "question": "How many mice, laptops, and beds are there?",
+        "answer": "{'mouse': 1, 'laptop': 2, 'bed': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/421229.jpg"
+    },
+    {
+        "id": "146",
+        "img_id": 516570,
+        "question": "How many baseball bats, people, and sports balls are there?",
+        "answer": "{'baseball bat': 1, 'person': 3, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/516570.jpg"
+    },
+    {
+        "id": "147",
+        "img_id": 511062,
+        "question": "How many people, surfboards, and backpacks are there?",
+        "answer": "{'person': 2, 'surfboard': 1, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/511062.jpg"
+    },
+    {
+        "id": "150",
+        "img_id": 247234,
+        "question": "How many cars, couches, and laptops are there?",
+        "answer": "{'car': 2, 'couch': 1, 'laptop': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/247234.jpg"
+    },
+    {
+        "id": "190",
+        "img_id": 134016,
+        "question": "How many broccolis, dining tables, and bowls are there?",
+        "answer": "{'broccoli': 1, 'dining table': 1, 'bowl': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/134016.jpg"
+    },
+    {
+        "id": "203",
+        "img_id": 96288,
+        "question": "How many people, backpacks, and dogs are there?",
+        "answer": "{'person': 3, 'backpack': 3, 'dog': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/96288.jpg"
+    },
+    {
+        "id": "251",
+        "img_id": 344271,
+        "question": "How many bottles, apples, and trains are there?",
+        "answer": "{'bottle': 2, 'apple': 1, 'train': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/344271.jpg"
+    },
+    {
+        "id": "297",
+        "img_id": 137395,
+        "question": "How many sports balls, people, and baseball bats are there?",
+        "answer": "{'sports ball': 1, 'person': 2, 'baseball bat': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/137395.jpg"
+    },
+    {
+        "id": "309",
+        "img_id": 424108,
+        "question": "How many dining tables, chairs, and potted plants are there?",
+        "answer": "{'dining table': 1, 'chair': 2, 'potted plant': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/424108.jpg"
+    },
+    {
+        "id": "322",
+        "img_id": 160233,
+        "question": "How many cars, umbrellas, and buses are there?",
+        "answer": "{'car': 4, 'umbrella': 2, 'bus': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/160233.jpg"
+    },
+    {
+        "id": "349",
+        "img_id": 223595,
+        "question": "How many people, baseball bats, and sports balls are there?",
+        "answer": "{'person': 3, 'baseball bat': 1, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/223595.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 540569,
+        "question": "How many motorcycles, handbags, and buses are there?",
+        "answer": "{'motorcycle': 2, 'handbag': 2, 'bus': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/540569.jpg"
+    },
+    {
+        "id": "105",
+        "img_id": 545317,
+        "question": "How many vases, sinks, and toilets are there?",
+        "answer": "{'vase': 2, 'sink': 1, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/545317.jpg"
+    },
+    {
+        "id": "110",
+        "img_id": 440528,
+        "question": "How many spoons, cakes, and knives are there?",
+        "answer": "{'spoon': 2, 'cake': 1, 'knife': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/440528.jpg"
+    },
+    {
+        "id": "231",
+        "img_id": 265744,
+        "question": "How many horses, cups, and people are there?",
+        "answer": "{'horse': 2, 'cup': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/265744.jpg"
+    },
+    {
+        "id": "241",
+        "img_id": 301603,
+        "question": "How many cups, laptops, and clocks are there?",
+        "answer": "{'cup': 2, 'laptop': 1, 'clock': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/301603.jpg"
+    },
+    {
+        "id": "323",
+        "img_id": 127603,
+        "question": "How many cars, trucks, and fire hydrants are there?",
+        "answer": "{'car': 2, 'truck': 1, 'fire hydrant': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/127603.jpg"
+    },
+    {
+        "id": "96",
+        "img_id": 446365,
+        "question": "How many spoons, cups, and cakes are there?",
+        "answer": "{'spoon': 2, 'cup': 1, 'cake': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/446365.jpg"
+    },
+    {
+        "id": "131",
+        "img_id": 71970,
+        "question": "How many buses, cows, and traffic lights are there?",
+        "answer": "{'bus': 1, 'cow': 3, 'traffic light': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/71970.jpg"
+    },
+    {
+        "id": "194",
+        "img_id": 145637,
+        "question": "How many backpacks, surfboards, and people are there?",
+        "answer": "{'backpack': 1, 'surfboard': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/145637.jpg"
+    },
+    {
+        "id": "252",
+        "img_id": 53479,
+        "question": "How many books, cell phones, and cups are there?",
+        "answer": "{'book': 3, 'cell phone': 1, 'cup': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/53479.jpg"
+    },
+    {
+        "id": "263",
+        "img_id": 309413,
+        "question": "How many baseball gloves, baseball bats, and people are there?",
+        "answer": "{'baseball glove': 1, 'baseball bat': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/309413.jpg"
+    },
+    {
+        "id": "278",
+        "img_id": 423083,
+        "question": "How many mice, tvs, and bottles are there?",
+        "answer": "{'mouse': 1, 'tv': 2, 'bottle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/423083.jpg"
+    },
+    {
+        "id": "281",
+        "img_id": 84230,
+        "question": "How many horses, ties, and people are there?",
+        "answer": "{'horse': 1, 'tie': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/84230.jpg"
+    },
+    {
+        "id": "313",
+        "img_id": 179462,
+        "question": "How many bananas, oranges, and dining tables are there?",
+        "answer": "{'banana': 4, 'orange': 2, 'dining table': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/179462.jpg"
+    },
+    {
+        "id": "340",
+        "img_id": 425325,
+        "question": "How many beds, remotes, and people are there?",
+        "answer": "{'bed': 1, 'remote': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/425325.jpg"
+    },
+    {
+        "id": "346",
+        "img_id": 200879,
+        "question": "How many toothbrushes, beds, and people are there?",
+        "answer": "{'toothbrush': 1, 'bed': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/200879.jpg"
+    },
+    {
+        "id": "352",
+        "img_id": 568731,
+        "question": "How many spoons, bowls, and sandwiches are there?",
+        "answer": "{'spoon': 1, 'bowl': 1, 'sandwich': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/568731.jpg"
+    },
+    {
+        "id": "357",
+        "img_id": 367873,
+        "question": "How many books, horses, and beds are there?",
+        "answer": "{'book': 2, 'horse': 1, 'bed': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/367873.jpg"
+    },
+    {
+        "id": "363",
+        "img_id": 404812,
+        "question": "How many remotes, dogs, and couches are there?",
+        "answer": "{'remote': 2, 'dog': 1, 'couch': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/404812.jpg"
+    },
+    {
+        "id": "303",
+        "img_id": 536374,
+        "question": "What object is the woman standing next to while talking on the phone?",
+        "answer": "['phone booth', 'phone box', 'payphone', 'public phone', 'booth', 'box']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/536374.jpg"
+    },
+    {
+        "id": "339",
+        "img_id": 236954,
+        "question": "What object is the two dogs sitting on in the back seat of the car?",
+        "answer": "['mat', 'blanket', 'seat cover', 'car seat', 'backseat cushion']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/236954.jpg"
+    },
+    {
+        "id": "95",
+        "img_id": 488571,
+        "question": "What object is the pizza sitting on?",
+        "answer": "['cutting board', 'wooden board', 'tray', 'platter', 'kitchen counter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/488571.jpg"
+    },
+    {
+        "id": "196",
+        "img_id": 348874,
+        "question": "What is the object with a stop sign and traffic light combined, placed on the side of the beach?",
+        "answer": "['stop sign', 'traffic light', 'traffic signal', 'stoplight', 'pedestrian crossing']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/348874.jpg"
+    },
+    {
+        "id": "145",
+        "img_id": 22478,
+        "question": "What object is sitting on the hardwood floor in the room?",
+        "answer": "['sofa', 'couch', 'bed', 'furniture', 'piece of furniture']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/22478.jpg"
+    },
+    {
+        "id": "132",
+        "img_id": 336015,
+        "question": "What object is the man using to move down the snow-covered hillside?",
+        "answer": "['skis', 'ski', 'downhill skis', 'snow skis', 'winter sports equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/336015.jpg"
+    },
+    {
+        "id": "51",
+        "img_id": 239532,
+        "question": "What object is the group of people standing on or near?",
+        "answer": "['dock', 'pier', 'wharf', 'harbor', 'jetty', 'boat ramp', \"water's edge\"]",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/239532.jpg"
+    },
+    {
+        "id": "178",
+        "img_id": 140648,
+        "question": "What object is the man standing next to in the desert?",
+        "answer": "['ocean', 'sea', 'water', 'beach', 'shore']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/140648.jpg"
+    },
+    {
+        "id": "14",
+        "img_id": 513124,
+        "question": "What object is being thrown by the young male baseball player in uniform?",
+        "answer": "['baseball', 'ball', 'pitch', 'throw', 'sphere']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/513124.jpg"
+    },
+    {
+        "id": "149",
+        "img_id": 46298,
+        "question": "What is the object holding the hot dogs on the stove?",
+        "answer": "['saucepan', 'pot', 'cooking vessel', 'cooking pot', 'cooking container']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/46298.jpg"
+    },
+    {
+        "id": "209",
+        "img_id": 72753,
+        "question": "What is the object that the two teddy bears are sitting on?",
+        "answer": "['table', 'tablecloth', 'cloth', 'surface', 'red table', 'table cover']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/72753.jpg"
+    },
+    {
+        "id": "204",
+        "img_id": 45383,
+        "question": "What is the object sitting on the window sill?",
+        "answer": "['vases', 'planters', 'decorative objects', 'pots', 'containers']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/45383.jpg"
+    },
+    {
+        "id": "88",
+        "img_id": 179620,
+        "question": "What object is stacked next to the toilet bowl?",
+        "answer": "['toilet paper', 'tissue', 'rolls', 'sanitary products', 'bathroom supplies']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/179620.jpg"
+    },
+    {
+        "id": "239",
+        "img_id": 287882,
+        "question": "What object is the man holding while on the tennis court?",
+        "answer": "['tennis racket', 'racket', 'tennis equipment', 'sports equipment', 'racquet']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/287882.jpg"
+    },
+    {
+        "id": "205",
+        "img_id": 308592,
+        "question": "What object is holding the pizza?",
+        "answer": "['pizza box', 'cardboard box', 'container', 'food box']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/308592.jpg"
+    },
+    {
+        "id": "396",
+        "img_id": 568156,
+        "question": "What object is the dog holding in its mouth?",
+        "answer": "['frisbee', 'flying disc', 'disc', 'catch', 'retrieve']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/568156.jpg"
+    },
+    {
+        "id": "274",
+        "img_id": 228565,
+        "question": "What is the object that the zebra is moving in the field?",
+        "answer": "['tail', 'swinging tail', 'wagging tail', 'swishing tail']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/228565.jpg"
+    },
+    {
+        "id": "214",
+        "img_id": 242656,
+        "question": "What object is the cattle grazing behind?",
+        "answer": "['fence', 'enclosure', 'barrier', 'boundary', 'railing']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/242656.jpg"
+    },
+    {
+        "id": "31",
+        "img_id": 76307,
+        "question": "What is the object on the plate that has been cut in half?",
+        "answer": "['sandwich', 'plate', 'food', 'meal', 'lunch', 'dinner']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/76307.jpg"
+    },
+    {
+        "id": "30",
+        "img_id": 486410,
+        "question": "What is the object painted in yellow and red standing in front of the building?",
+        "answer": "['fire hydrant', 'hydrant', 'fire plug', 'water hydrant', 'fire standpipe']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/486410.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 459255,
+        "question": "What object is the man holding while jumping in the air?",
+        "answer": "['tennis racquet', 'tennis racket', 'racket', 'racquet']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/459255.jpg"
+    },
+    {
+        "id": "42",
+        "img_id": 562015,
+        "question": "What is the object that the cat is reclining on?",
+        "answer": "['blanket', 'bed cover', 'pink blanket', 'stitched pink bed cover']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/562015.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 414350,
+        "question": "What is the object with multiple markers hanging every which way?",
+        "answer": "['street sign', 'road sign', 'directional sign', 'signpost', 'marker', 'indicator']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/414350.jpg"
+    },
+    {
+        "id": "368",
+        "img_id": 556472,
+        "question": "What is the object that is walking across the dirt road next to the trees?",
+        "answer": "['sheep', 'flock', 'herd', 'livestock', 'grazing animals']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/556472.jpg"
+    },
+    {
+        "id": "265",
+        "img_id": 108045,
+        "question": "What object is being used as a decorative container in the scene?",
+        "answer": "['bird cage', 'birdcage', 'aviary', 'enclosure', 'ornamental container']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/108045.jpg"
+    },
+    {
+        "id": "7",
+        "img_id": 5574,
+        "question": "What object is standing between the two fake beds?",
+        "answer": "['teddy bear', 'stuffed animal', 'plush toy', 'cuddly toy', 'soft toy']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/5574.jpg"
+    },
+    {
+        "id": "73",
+        "img_id": 346062,
+        "question": "What object is the woman using to hit the ball in the tennis scene?",
+        "answer": "['racket', 'tennis racket', 'tennis racquet', 'racquetball', 'tennis equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/346062.jpg"
+    },
+    {
+        "id": "200",
+        "img_id": 191203,
+        "question": "What is the object being ridden by the man in the wooded area?",
+        "answer": "['elephant', 'pachyderm', 'beast', 'animal', 'mammal']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/191203.jpg"
+    },
+    {
+        "id": "327",
+        "img_id": 128528,
+        "question": "What is the object worn by the dog on its shoulder/back while running in the snow?",
+        "answer": "['backpack', 'pack', 'bag', 'rucksack', 'knapsack']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/128528.jpg"
+    },
+    {
+        "id": "96",
+        "img_id": 532083,
+        "question": "What is the subject depicted in the stained glass window?",
+        "answer": "['Mary', 'Jesus', 'mother', 'child', 'saint', 'portrait', 'woman', 'holding', 'portrait', 'mother of Jesus']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/532083.jpg"
+    },
+    {
+        "id": "184",
+        "img_id": 462151,
+        "question": "What object is being used to store the tray of baked items?",
+        "answer": "['cooler', 'cart', 'locker', 'metal locker', 'storage container', 'refrigerator', 'freezer']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/462151.jpg"
+    },
+    {
+        "id": "121",
+        "img_id": 470189,
+        "question": "What is the object that the girl is standing next to on the side of the road?",
+        "answer": "['motorcycle', 'motorbike', 'bike', 'cycle', 'scooter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/470189.jpg"
+    },
+    {
+        "id": "285",
+        "img_id": 451739,
+        "question": "What is the type of food item on the plates?",
+        "answer": "['chocolate mouse', 'chocolate cake', 'dessert', 'pie', 'mousse', 'chocolate pie']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/451739.jpg"
+    },
+    {
+        "id": "314",
+        "img_id": 330894,
+        "question": "What type of vehicle is lined up along the sidewalk?",
+        "answer": "['scooter', 'motorbike', 'motorcycle', 'two-wheeler', 'ride-on', 'ride-by', 'motorized bike']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/330894.jpg"
+    },
+    {
+        "id": "362",
+        "img_id": 485913,
+        "question": "What is the type of vehicle being ridden down the street?",
+        "answer": "['double decker bus', 'red bus', 'double decker', 'bus', 'coach']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/485913.jpg"
+    },
+    {
+        "id": "124",
+        "img_id": 107205,
+        "question": "What object is being held behind the man's back?",
+        "answer": "['skateboard', 'board', 'longboard', 'deck', 'wheels']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/107205.jpg"
+    },
+    {
+        "id": "359",
+        "img_id": 349561,
+        "question": "What is the bird standing outside the door with clear windows?",
+        "answer": "['stork', 'bird', 'avian', 'wading bird', 'heron', 'crane']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/349561.jpg"
+    },
+    {
+        "id": "220",
+        "img_id": 446723,
+        "question": "What object is being used to take a picture of the chef?",
+        "answer": "['smartphone', 'cell phone', 'mobile phone']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/446723.jpg"
+    },
+    {
+        "id": "37",
+        "img_id": 335433,
+        "question": "What is the object holding the sandwich halves together?",
+        "answer": "['toothpick', 'pick', 'skewer', 'pin', 'stick']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/335433.jpg"
+    },
+    {
+        "id": "219",
+        "img_id": 291290,
+        "question": "What is the object attached to the side of the red train?",
+        "answer": "['fire hose', 'hose', 'water hose', 'firefighting equipment', 'train equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/291290.jpg"
+    },
+    {
+        "id": "136",
+        "img_id": 107233,
+        "question": "Where is the dining table in relation to the handbag?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/107233.jpg"
+    },
+    {
+        "id": "213",
+        "img_id": 62237,
+        "question": "Where is the laptop in relation to the tv?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/62237.jpg"
+    },
+    {
+        "id": "72",
+        "img_id": 332705,
+        "question": "Where is the person in relation to the dining table?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/332705.jpg"
+    },
+    {
+        "id": "312",
+        "img_id": 540978,
+        "question": "Where is the backpack in relation to the bench?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/540978.jpg"
+    },
+    {
+        "id": "351",
+        "img_id": 543869,
+        "question": "Where is the chair in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/543869.jpg"
+    },
+    {
+        "id": "238",
+        "img_id": 468319,
+        "question": "Where is the sports ball in relation to the person?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/468319.jpg"
+    },
+    {
+        "id": "67",
+        "img_id": 391971,
+        "question": "Where is the tennis racket in relation to the chair?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/391971.jpg"
+    },
+    {
+        "id": "235",
+        "img_id": 204273,
+        "question": "Where is the cup in relation to the baseball glove?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/204273.jpg"
+    },
+    {
+        "id": "206",
+        "img_id": 401829,
+        "question": "Where is the snowboard in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/401829.jpg"
+    },
+    {
+        "id": "80",
+        "img_id": 195271,
+        "question": "Where is the person in relation to the sink?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/195271.jpg"
+    },
+    {
+        "id": "335",
+        "img_id": 131980,
+        "question": "Where is the oven in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/131980.jpg"
+    },
+    {
+        "id": "201",
+        "img_id": 301397,
+        "question": "Where is the person in relation to the cell phone?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/301397.jpg"
+    },
+    {
+        "id": "69",
+        "img_id": 115776,
+        "question": "Where is the cake in relation to the dining table?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/115776.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 375875,
+        "question": "Where is the keyboard in relation to the person?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/375875.jpg"
+    },
+    {
+        "id": "74",
+        "img_id": 497335,
+        "question": "Where is the apple in relation to the orange?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/497335.jpg"
+    },
+    {
+        "id": "223",
+        "img_id": 435218,
+        "question": "Where is the bottle in relation to the oven?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/435218.jpg"
+    },
+    {
+        "id": "332",
+        "img_id": 128254,
+        "question": "Where is the sink in relation to the book?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/128254.jpg"
+    },
+    {
+        "id": "259",
+        "img_id": 449936,
+        "question": "Where is the dining table in relation to the microwave?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/449936.jpg"
+    },
+    {
+        "id": "285",
+        "img_id": 563444,
+        "question": "Where is the pizza in relation to the knife?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/563444.jpg"
+    },
+    {
+        "id": "32",
+        "img_id": 61814,
+        "question": "Where is the skateboard in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/61814.jpg"
+    },
+    {
+        "id": "341",
+        "img_id": 237423,
+        "question": "Where is the laptop in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/237423.jpg"
+    },
+    {
+        "id": "15",
+        "img_id": 508006,
+        "question": "Where is the microwave in relation to the cake?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/508006.jpg"
+    },
+    {
+        "id": "227",
+        "img_id": 248132,
+        "question": "Where is the refrigerator in relation to the bed?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/248132.jpg"
+    },
+    {
+        "id": "128",
+        "img_id": 489735,
+        "question": "Where is the chair in relation to the spoon?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/489735.jpg"
+    },
+    {
+        "id": "205",
+        "img_id": 171199,
+        "question": "Where is the cup in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/171199.jpg"
+    },
+    {
+        "id": "1",
+        "img_id": 327038,
+        "question": "Where is the knife in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/327038.jpg"
+    },
+    {
+        "id": "94",
+        "img_id": 244317,
+        "question": "Where is the donut in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/244317.jpg"
+    },
+    {
+        "id": "144",
+        "img_id": 194247,
+        "question": "Where is the backpack in relation to the laptop?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/194247.jpg"
+    },
+    {
+        "id": "272",
+        "img_id": 67838,
+        "question": "Where is the boat in relation to the surfboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/67838.jpg"
+    },
+    {
+        "id": "135",
+        "img_id": 550552,
+        "question": "Where is the bottle in relation to the bowl?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/550552.jpg"
+    },
+    {
+        "id": "31",
+        "img_id": 509783,
+        "question": "Where is the bench in relation to the elephant?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/509783.jpg"
+    },
+    {
+        "id": "217",
+        "img_id": 564288,
+        "question": "Where is the handbag in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/564288.jpg"
+    },
+    {
+        "id": "320",
+        "img_id": 381889,
+        "question": "Where is the cake in relation to the cell phone?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/381889.jpg"
+    },
+    {
+        "id": "298",
+        "img_id": 563062,
+        "question": "Where is the bench in relation to the kite?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/563062.jpg"
+    },
+    {
+        "id": "279",
+        "img_id": 512416,
+        "question": "Where is the cake in relation to the microwave?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/512416.jpg"
+    },
+    {
+        "id": "221",
+        "img_id": 538163,
+        "question": "Where is the vase in relation to the wine glass?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/538163.jpg"
+    },
+    {
+        "id": "152",
+        "img_id": 544089,
+        "question": "Where is the book in relation to the cake?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/544089.jpg"
+    },
+    {
+        "id": "9",
+        "img_id": 158378,
+        "question": "Where is the clock in relation to the laptop?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/158378.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 273421,
+        "question": "Where is the cup in relation to the toilet?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/273421.jpg"
+    },
+    {
+        "id": "97",
+        "img_id": 88433,
+        "question": "Where is the skis in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/watercolour_painting/88433.jpg"
+    }
+]

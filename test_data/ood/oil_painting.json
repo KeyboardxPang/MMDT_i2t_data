@@ -1,0 +1,1298 @@
+[
+    {
+        "id": "384",
+        "img_id": 520696,
+        "question": "What is the material used for the floor in the room?",
+        "answer": "['wooden', 'timber', 'hardwood', 'flooring']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/520696.jpg"
+    },
+    {
+        "id": "349",
+        "img_id": 153136,
+        "question": "What is the surface texture of the bench?",
+        "answer": "['wooden', 'rough', 'coarse', 'grainy', 'rustic']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/153136.jpg"
+    },
+    {
+        "id": "323",
+        "img_id": 250708,
+        "question": "What is the shape of the cow's horns?",
+        "answer": "['curved', 'bent', 'hooked', 'spiraled', 'twisted']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/250708.jpg"
+    },
+    {
+        "id": "311",
+        "img_id": 384853,
+        "question": "What is the color of the vase?",
+        "answer": "['green', 'emerald', 'lime', 'pale green']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/384853.jpg"
+    },
+    {
+        "id": "308",
+        "img_id": 163142,
+        "question": "What is the shape of the elephant's eye?",
+        "answer": "['almond', 'elliptical', 'oval', 'rounded', 'elliptoid']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/163142.jpg"
+    },
+    {
+        "id": "306",
+        "img_id": 407037,
+        "question": "What is the purpose of the television in the library?",
+        "answer": "['informational', 'educational', 'entertainment', 'instructional', 'recreational']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/407037.jpg"
+    },
+    {
+        "id": "277",
+        "img_id": 573726,
+        "question": "What is the color pattern of the cat?",
+        "answer": "['black and white', 'monochromatic', 'bi-colored', 'two-toned', 'dual-hued']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/573726.jpg"
+    },
+    {
+        "id": "245",
+        "img_id": 126098,
+        "question": "What is the action being performed by the young boy in the scene?",
+        "answer": "['tossing', 'throwing', 'launching', 'propelling', 'hurling']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/126098.jpg"
+    },
+    {
+        "id": "232",
+        "img_id": 127810,
+        "question": "What is the trajectory of the frisbee?",
+        "answer": "['flying', 'soaring', 'airborne', 'in mid-air', 'in flight']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/127810.jpg"
+    },
+    {
+        "id": "179",
+        "img_id": 462477,
+        "question": "What is the type of garment worn by the men in the kitchen?",
+        "answer": "['aprons', 'waistcoats', 'vests', 'tunics']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/462477.jpg"
+    },
+    {
+        "id": "130",
+        "img_id": 394210,
+        "question": "What is the orientation of the cat?",
+        "answer": "['laying', 'reclining', 'recumbent', 'prone', 'supine']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/394210.jpg"
+    },
+    {
+        "id": "123",
+        "img_id": 58708,
+        "question": "What is the style or era of the woman's attire?",
+        "answer": "['18th century', 'vintage', 'classic', 'traditional', 'historical']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/58708.jpg"
+    },
+    {
+        "id": "103",
+        "img_id": 172813,
+        "question": "What is the shape of the couch in the living room?",
+        "answer": "['semi-circular', 'curved', 'rounded', 'arched']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/172813.jpg"
+    },
+    {
+        "id": "86",
+        "img_id": 109638,
+        "question": "What is the shape of the vase?",
+        "answer": "['cylindrical', 'tubular', 'conical', 'rounded', 'curved']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/109638.jpg"
+    },
+    {
+        "id": "83",
+        "img_id": 9603,
+        "question": "What is the terrain or surface that the cows are standing on?",
+        "answer": "['hillside', 'slope', 'incline', 'gradient', 'terrain', 'landscape']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/9603.jpg"
+    },
+    {
+        "id": "61",
+        "img_id": 303556,
+        "question": "What is the texture of the beach where the man and woman are playing with the frisbee?",
+        "answer": "['sandy', 'grainy', 'coarse', 'fine', 'powdery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/303556.jpg"
+    },
+    {
+        "id": "53",
+        "img_id": 499552,
+        "question": "What is the state of the woman's hair?",
+        "answer": "['wet', 'damp', 'moist', 'dripping', 'dripping wet']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/499552.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 19712,
+        "question": "What is the facial expression of the person pointing up to the sky?",
+        "answer": "['smiling', 'beaming', 'grinning', 'cheerful', 'joyful']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/19712.jpg"
+    },
+    {
+        "id": "29",
+        "img_id": 330880,
+        "question": "What is the shape of the pizza?",
+        "answer": "['circular', 'round', 'curved', 'disk-like', 'spherical']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/330880.jpg"
+    },
+    {
+        "id": "3",
+        "img_id": 17667,
+        "question": "What is the shape of the boat?",
+        "answer": "['long', 'elongated', 'slender', 'linear']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/17667.jpg"
+    },
+    {
+        "id": "47",
+        "img_id": 457725,
+        "question": "What is the location of the police officer?",
+        "answer": "['roadside', 'street', 'highway', 'middle of the road', 'on the pavement']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/457725.jpg"
+    },
+    {
+        "id": "392",
+        "img_id": 409825,
+        "question": "What is the style or atmosphere of the dinner event?",
+        "answer": "['upscale', 'formal', 'elegant', 'sophisticated', 'refined']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/409825.jpg"
+    },
+    {
+        "id": "387",
+        "img_id": 97371,
+        "question": "What is the shape of the kitchen counter?",
+        "answer": "['rectangular', 'square', 'flat', 'horizontal']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/97371.jpg"
+    },
+    {
+        "id": "364",
+        "img_id": 106144,
+        "question": "What is the surface on which the man is sleeping?",
+        "answer": "['floor', 'ground', 'pavement', 'surface', 'terrain']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/106144.jpg"
+    },
+    {
+        "id": "358",
+        "img_id": 405068,
+        "question": "What is the material used for the furniture in the living room?",
+        "answer": "['leather', 'upholstery', 'fabric', 'textile']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/405068.jpg"
+    },
+    {
+        "id": "354",
+        "img_id": 355179,
+        "question": "What is the girl's facial expression?",
+        "answer": "['shocked', 'surprised', 'startled', 'amazed', 'astonished']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/355179.jpg"
+    },
+    {
+        "id": "346",
+        "img_id": 305464,
+        "question": "What is the purpose of the bucket and pot in the bathroom?",
+        "answer": "['cleaning', 'utility', 'storage', 'container', 'receptacle']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/305464.jpg"
+    },
+    {
+        "id": "332",
+        "img_id": 30001,
+        "question": "What is the shape of the keyboard?",
+        "answer": "['rectangular', 'square-shaped', 'flat', 'flat-faced']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/30001.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 357331,
+        "question": "What is the color of the train?",
+        "answer": "['blue', 'azure', 'cerulean', 'sky blue']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/357331.jpg"
+    },
+    {
+        "id": "288",
+        "img_id": 301646,
+        "question": "What is the shape of the object stuck in the apple?",
+        "answer": "['forked', 'tined', 'pronged', 'pointed']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/301646.jpg"
+    },
+    {
+        "id": "229",
+        "img_id": 18723,
+        "question": "What is the location of the clock tower?",
+        "answer": "['field', 'meadow', 'yard', 'landscape', 'scenery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/18723.jpg"
+    },
+    {
+        "id": "202",
+        "img_id": 432997,
+        "question": "What is the state of the kitchen utensils and dishes?",
+        "answer": "['dirty', 'grimy', 'filthy', 'unclean', 'soiled']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/432997.jpg"
+    },
+    {
+        "id": "178",
+        "img_id": 142564,
+        "question": "What is the texture of the surface the kids are playing on?",
+        "answer": "['smooth', 'slippery', 'slick', 'glossy', 'watery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/142564.jpg"
+    },
+    {
+        "id": "196",
+        "img_id": 328783,
+        "question": "What is the surface or terrain that the giraffe is walking on?",
+        "answer": "['dirt', 'earth', 'ground', 'soil', 'terrain']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/328783.jpg"
+    },
+    {
+        "id": "69",
+        "img_id": 35690,
+        "question": "What is the type of equipment worn by the horse?",
+        "answer": "['harness', 'bridle', 'headstall', 'halter', 'tack']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/35690.jpg"
+    },
+    {
+        "id": "148",
+        "img_id": 109169,
+        "question": "What is the material used to make the clock?",
+        "answer": "['gold', 'golden', 'yellow', 'aurous', 'metallic']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/109169.jpg"
+    },
+    {
+        "id": "138",
+        "img_id": 98563,
+        "question": "What is the style or era of the vase?",
+        "answer": "['antique', 'vintage', 'classic', 'retro', 'old-fashioned']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/98563.jpg"
+    },
+    {
+        "id": "102",
+        "img_id": 245603,
+        "question": "What is the texture of the grass in the field?",
+        "answer": "['lush', 'verdant', 'green', 'emerald', 'verdurous']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/245603.jpg"
+    },
+    {
+        "id": "50",
+        "img_id": 177058,
+        "question": "What is the material used to make the vase?",
+        "answer": "['ceramic', 'glazed', 'porcelain', 'earthenware']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/177058.jpg"
+    },
+    {
+        "id": "31",
+        "img_id": 152277,
+        "question": "What is the color of the clock's face and hands?",
+        "answer": "['black', 'dark', 'ebony', 'obsidian', 'white', 'ivory']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/152277.jpg"
+    },
+    {
+        "id": "0",
+        "img_id": 118118,
+        "question": "How many bowls, pizzas, and knives are there?",
+        "answer": "{'bowl': 3, 'pizza': 1, 'knife': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/118118.jpg"
+    },
+    {
+        "id": "22",
+        "img_id": 421229,
+        "question": "How many mice, laptops, and beds are there?",
+        "answer": "{'mouse': 1, 'laptop': 2, 'bed': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/421229.jpg"
+    },
+    {
+        "id": "28",
+        "img_id": 517906,
+        "question": "How many people, sports balls, and tennis rackets are there?",
+        "answer": "{'person': 1, 'sports ball': 2, 'tennis racket': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/517906.jpg"
+    },
+    {
+        "id": "45",
+        "img_id": 380425,
+        "question": "How many cars, people, and baseball bats are there?",
+        "answer": "{'car': 1, 'person': 3, 'baseball bat': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/380425.jpg"
+    },
+    {
+        "id": "52",
+        "img_id": 31081,
+        "question": "How many dining tables, people, and backpacks are there?",
+        "answer": "{'dining table': 2, 'person': 4, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/31081.jpg"
+    },
+    {
+        "id": "63",
+        "img_id": 480257,
+        "question": "How many sandwiches, people, and dining tables are there?",
+        "answer": "{'sandwich': 2, 'person': 1, 'dining table': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/480257.jpg"
+    },
+    {
+        "id": "68",
+        "img_id": 30347,
+        "question": "How many ovens, chairs, and people are there?",
+        "answer": "{'oven': 1, 'chair': 3, 'person': 4}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/30347.jpg"
+    },
+    {
+        "id": "95",
+        "img_id": 229427,
+        "question": "How many potted plants, remotes, and people are there?",
+        "answer": "{'potted plant': 1, 'remote': 2, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/229427.jpg"
+    },
+    {
+        "id": "96",
+        "img_id": 446365,
+        "question": "How many spoons, cups, and cakes are there?",
+        "answer": "{'spoon': 2, 'cup': 1, 'cake': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/446365.jpg"
+    },
+    {
+        "id": "105",
+        "img_id": 545317,
+        "question": "How many vases, sinks, and toilets are there?",
+        "answer": "{'vase': 2, 'sink': 1, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/545317.jpg"
+    },
+    {
+        "id": "109",
+        "img_id": 42418,
+        "question": "How many tennis rackets, cars, and umbrellas are there?",
+        "answer": "{'tennis racket': 1, 'car': 2, 'umbrella': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/42418.jpg"
+    },
+    {
+        "id": "115",
+        "img_id": 411430,
+        "question": "How many birds, scissors, and people are there?",
+        "answer": "{'bird': 2, 'scissors': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/411430.jpg"
+    },
+    {
+        "id": "138",
+        "img_id": 529311,
+        "question": "How many people, tennis rackets, and sports balls are there?",
+        "answer": "{'person': 3, 'tennis racket': 2, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/529311.jpg"
+    },
+    {
+        "id": "146",
+        "img_id": 516570,
+        "question": "How many baseball bats, people, and sports balls are there?",
+        "answer": "{'baseball bat': 1, 'person': 3, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/516570.jpg"
+    },
+    {
+        "id": "147",
+        "img_id": 511062,
+        "question": "How many people, surfboards, and backpacks are there?",
+        "answer": "{'person': 2, 'surfboard': 1, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/511062.jpg"
+    },
+    {
+        "id": "150",
+        "img_id": 247234,
+        "question": "How many cars, couches, and laptops are there?",
+        "answer": "{'car': 2, 'couch': 1, 'laptop': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/247234.jpg"
+    },
+    {
+        "id": "168",
+        "img_id": 111649,
+        "question": "How many boats, sports balls, and baseball bats are there?",
+        "answer": "{'boat': 2, 'sports ball': 1, 'baseball bat': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/111649.jpg"
+    },
+    {
+        "id": "203",
+        "img_id": 96288,
+        "question": "How many people, backpacks, and dogs are there?",
+        "answer": "{'person': 3, 'backpack': 3, 'dog': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/96288.jpg"
+    },
+    {
+        "id": "231",
+        "img_id": 265744,
+        "question": "How many horses, cups, and people are there?",
+        "answer": "{'horse': 2, 'cup': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/265744.jpg"
+    },
+    {
+        "id": "296",
+        "img_id": 22777,
+        "question": "How many ties, books, and benches are there?",
+        "answer": "{'tie': 2, 'book': 1, 'bench': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/22777.jpg"
+    },
+    {
+        "id": "297",
+        "img_id": 137395,
+        "question": "How many sports balls, people, and baseball bats are there?",
+        "answer": "{'sports ball': 1, 'person': 2, 'baseball bat': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/137395.jpg"
+    },
+    {
+        "id": "322",
+        "img_id": 160233,
+        "question": "How many cars, umbrellas, and buses are there?",
+        "answer": "{'car': 4, 'umbrella': 2, 'bus': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/160233.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 540569,
+        "question": "How many motorcycles, handbags, and buses are there?",
+        "answer": "{'motorcycle': 2, 'handbag': 2, 'bus': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/540569.jpg"
+    },
+    {
+        "id": "92",
+        "img_id": 258071,
+        "question": "How many dining tables, chairs, and people are there?",
+        "answer": "{'dining table': 1, 'chair': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/258071.jpg"
+    },
+    {
+        "id": "110",
+        "img_id": 440528,
+        "question": "How many spoons, cakes, and knives are there?",
+        "answer": "{'spoon': 2, 'cake': 1, 'knife': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/440528.jpg"
+    },
+    {
+        "id": "241",
+        "img_id": 301603,
+        "question": "How many cups, laptops, and clocks are there?",
+        "answer": "{'cup': 2, 'laptop': 1, 'clock': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/301603.jpg"
+    },
+    {
+        "id": "292",
+        "img_id": 408681,
+        "question": "How many chairs, ovens, and people are there?",
+        "answer": "{'chair': 2, 'oven': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/408681.jpg"
+    },
+    {
+        "id": "294",
+        "img_id": 457268,
+        "question": "How many bottles, toothbrushes, and toilets are there?",
+        "answer": "{'bottle': 1, 'toothbrush': 3, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/457268.jpg"
+    },
+    {
+        "id": "351",
+        "img_id": 124893,
+        "question": "How many couches, chairs, and tvs are there?",
+        "answer": "{'couch': 2, 'chair': 2, 'tv': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/124893.jpg"
+    },
+    {
+        "id": "39",
+        "img_id": 536534,
+        "question": "How many backpacks, bicycles, and buses are there?",
+        "answer": "{'backpack': 1, 'bicycle': 1, 'bus': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/536534.jpg"
+    },
+    {
+        "id": "51",
+        "img_id": 210752,
+        "question": "How many dining tables, bowls, and cakes are there?",
+        "answer": "{'dining table': 1, 'bowl': 1, 'cake': 7}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/210752.jpg"
+    },
+    {
+        "id": "114",
+        "img_id": 79244,
+        "question": "How many people, benches, and dogs are there?",
+        "answer": "{'person': 2, 'bench': 1, 'dog': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/79244.jpg"
+    },
+    {
+        "id": "131",
+        "img_id": 71970,
+        "question": "How many buses, cows, and traffic lights are there?",
+        "answer": "{'bus': 1, 'cow': 3, 'traffic light': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/71970.jpg"
+    },
+    {
+        "id": "159",
+        "img_id": 462132,
+        "question": "How many people, sports balls, and baseball gloves are there?",
+        "answer": "{'person': 2, 'sports ball': 1, 'baseball glove': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/462132.jpg"
+    },
+    {
+        "id": "252",
+        "img_id": 53479,
+        "question": "How many books, cell phones, and cups are there?",
+        "answer": "{'book': 3, 'cell phone': 1, 'cup': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/53479.jpg"
+    },
+    {
+        "id": "263",
+        "img_id": 309413,
+        "question": "How many baseball gloves, baseball bats, and people are there?",
+        "answer": "{'baseball glove': 1, 'baseball bat': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/309413.jpg"
+    },
+    {
+        "id": "278",
+        "img_id": 423083,
+        "question": "How many mice, tvs, and bottles are there?",
+        "answer": "{'mouse': 1, 'tv': 2, 'bottle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/423083.jpg"
+    },
+    {
+        "id": "281",
+        "img_id": 84230,
+        "question": "How many horses, ties, and people are there?",
+        "answer": "{'horse': 1, 'tie': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/84230.jpg"
+    },
+    {
+        "id": "313",
+        "img_id": 179462,
+        "question": "How many bananas, oranges, and dining tables are there?",
+        "answer": "{'banana': 4, 'orange': 2, 'dining table': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/179462.jpg"
+    },
+    {
+        "id": "352",
+        "img_id": 568731,
+        "question": "How many spoons, bowls, and sandwiches are there?",
+        "answer": "{'spoon': 1, 'bowl': 1, 'sandwich': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/568731.jpg"
+    },
+    {
+        "id": "357",
+        "img_id": 367873,
+        "question": "How many books, horses, and beds are there?",
+        "answer": "{'book': 2, 'horse': 1, 'bed': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/367873.jpg"
+    },
+    {
+        "id": "363",
+        "img_id": 404812,
+        "question": "How many remotes, dogs, and couches are there?",
+        "answer": "{'remote': 2, 'dog': 1, 'couch': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/404812.jpg"
+    },
+    {
+        "id": "368",
+        "img_id": 556472,
+        "question": "What is the object that is walking across the dirt road next to the trees?",
+        "answer": "['sheep', 'flock', 'herd', 'livestock', 'grazing animals']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/556472.jpg"
+    },
+    {
+        "id": "7",
+        "img_id": 5574,
+        "question": "What object is standing between the two fake beds?",
+        "answer": "['teddy bear', 'stuffed animal', 'plush toy', 'cuddly toy', 'soft toy']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/5574.jpg"
+    },
+    {
+        "id": "342",
+        "img_id": 508343,
+        "question": "What object is being held by the soccer player in front of the goal?",
+        "answer": "['soccer ball', 'football', 'ball', 'orb', 'round ball']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/508343.jpg"
+    },
+    {
+        "id": "10",
+        "img_id": 94049,
+        "question": "What is the object on the floor in the room with a green rug?",
+        "answer": "['daybed', 'sofa', 'bed', 'couch', 'divan']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/94049.jpg"
+    },
+    {
+        "id": "47",
+        "img_id": 378049,
+        "question": "What object is the big brown dog holding onto in the snow?",
+        "answer": "['frisbee', 'disc', 'toy', 'yellow toy', 'flying disc']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/378049.jpg"
+    },
+    {
+        "id": "319",
+        "img_id": 299548,
+        "question": "What is the object that the train is pulling into the station?",
+        "answer": "['train station', 'railroad tracks', 'platform', 'terminal', 'depot']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/299548.jpg"
+    },
+    {
+        "id": "28",
+        "img_id": 294603,
+        "question": "What is the object that the man is standing next to?",
+        "answer": "['scorpion woods sign', 'ski slope sign', 'mountain sign', 'trail sign', 'winter trail sign']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/294603.jpg"
+    },
+    {
+        "id": "311",
+        "img_id": 315581,
+        "question": "What object is the dog staring at in the scene?",
+        "answer": "['mirror', 'reflective surface', 'glass', 'reflective glass', 'reflective pane']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/315581.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 414350,
+        "question": "What is the object with multiple markers hanging every which way?",
+        "answer": "['street sign', 'road sign', 'directional sign', 'signpost', 'marker', 'indicator']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/414350.jpg"
+    },
+    {
+        "id": "8",
+        "img_id": 420229,
+        "question": "What is the object being held above the apple?",
+        "answer": "['apple slicer', 'fruit slicer', 'corer', 'peeler', 'cutter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/420229.jpg"
+    },
+    {
+        "id": "171",
+        "img_id": 19738,
+        "question": "What is the object on the plate that is not the plate itself?",
+        "answer": "['cake', 'dessert', 'pastry', 'sweet', 'treat']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/19738.jpg"
+    },
+    {
+        "id": "329",
+        "img_id": 171185,
+        "question": "What object is providing shade for the giraffes in the dry grassy field?",
+        "answer": "['tree', 'tall tree', 'high tree', 'shade provider', 'foliage', 'vegetation']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/171185.jpg"
+    },
+    {
+        "id": "93",
+        "img_id": 160423,
+        "question": "What is the type of vehicle that the family is sitting inside?",
+        "answer": "['toy bus', 'play bus', 'double-decker bus', 'transport bus', 'mock bus']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/160423.jpg"
+    },
+    {
+        "id": "187",
+        "img_id": 155754,
+        "question": "What object is the child riding in the indoor scene?",
+        "answer": "['tricycle', 'bicycle', 'three-wheeler', \"kid's bike\", 'pedal bike']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/155754.jpg"
+    },
+    {
+        "id": "89",
+        "img_id": 13452,
+        "question": "What is the object on which the breakfast items are placed?",
+        "answer": "['plate', 'dish', 'tableware', 'breakfast plate', 'dinner plate']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/13452.jpg"
+    },
+    {
+        "id": "79",
+        "img_id": 84929,
+        "question": "What object is the teddy bear sitting on?",
+        "answer": "['radiator', 'heating unit', 'heating element', 'heating system', 'heat exchanger']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/84929.jpg"
+    },
+    {
+        "id": "282",
+        "img_id": 459933,
+        "question": "What is the structure that the bicycles are parked next to?",
+        "answer": "['dock', 'ramp', 'railing', 'harbor', 'wharf', 'pier']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/459933.jpg"
+    },
+    {
+        "id": "330",
+        "img_id": 516105,
+        "question": "What object is the bicyclist riding on?",
+        "answer": "['road', 'highway', 'street', 'pavement', 'asphalt']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/516105.jpg"
+    },
+    {
+        "id": "223",
+        "img_id": 346265,
+        "question": "What object is the giraffe standing next to or in the vicinity of in both pictures?",
+        "answer": "['tree', 'trees', 'foliage', 'greenery', 'flora']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/346265.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 459255,
+        "question": "What object is the man holding while jumping in the air?",
+        "answer": "['tennis racquet', 'tennis racket', 'racket', 'racquet']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/459255.jpg"
+    },
+    {
+        "id": "397",
+        "img_id": 544538,
+        "question": "What object is being used to hold the hot dog in the scene?",
+        "answer": "['bun', 'bread roll', 'hot dog holder', 'condiment tray', 'serving plate']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/544538.jpg"
+    },
+    {
+        "id": "243",
+        "img_id": 436833,
+        "question": "What is the object the person is standing with on the snowy slope?",
+        "answer": "['ski', 'skis', 'poles', 'snowboard', 'winter sports equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/436833.jpg"
+    },
+    {
+        "id": "132",
+        "img_id": 336015,
+        "question": "What object is the man using to move down the snow-covered hillside?",
+        "answer": "['skis', 'ski', 'downhill skis', 'snow skis', 'winter sports equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/336015.jpg"
+    },
+    {
+        "id": "86",
+        "img_id": 27227,
+        "question": "What is the object the older woman is sitting on?",
+        "answer": "['park bench', 'bench', 'outdoor furniture', 'garden seat', 'seat']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/27227.jpg"
+    },
+    {
+        "id": "44",
+        "img_id": 335323,
+        "question": "What is the object flying in the cloudy sky with numbers on it?",
+        "answer": "['fighter jet', 'jet', 'airplane', 'aircraft', 'plane', 'military plane', 'warplane']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/335323.jpg"
+    },
+    {
+        "id": "178",
+        "img_id": 140648,
+        "question": "What object is the man standing next to in the desert?",
+        "answer": "['ocean', 'sea', 'water', 'beach', 'shore']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/140648.jpg"
+    },
+    {
+        "id": "259",
+        "img_id": 428991,
+        "question": "What is the object with street signs in front of the building?",
+        "answer": "['street pole', 'lamppost', 'signpost', 'street sign holder', 'traffic pole']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/428991.jpg"
+    },
+    {
+        "id": "310",
+        "img_id": 576549,
+        "question": "What object is used to store and display the various vegetables at the market?",
+        "answer": "['wheelbarrow', 'vegetable bin', 'container', 'tray', 'pushcart', 'barrow', 'garden cart']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/576549.jpg"
+    },
+    {
+        "id": "359",
+        "img_id": 349561,
+        "question": "What is the bird standing outside the door with clear windows?",
+        "answer": "['stork', 'bird', 'avian', 'wading bird', 'heron', 'crane']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/349561.jpg"
+    },
+    {
+        "id": "372",
+        "img_id": 144633,
+        "question": "What object is filled with broccoli and placed next to other fruits and vegetables?",
+        "answer": "['basket', 'container', 'wicker', 'woven', 'receptacle', 'vessel']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/144633.jpg"
+    },
+    {
+        "id": "198",
+        "img_id": 16773,
+        "question": "What is the object that the crowd of people is standing around on?",
+        "answer": "['boat deck', 'dock', 'pier', 'wharf', 'jetty', 'harbor', 'marina']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/16773.jpg"
+    },
+    {
+        "id": "388",
+        "img_id": 214419,
+        "question": "What object is being held by the person in the scene, which is attracting the attention of the birds?",
+        "answer": "['hand', 'palm', 'fingers', 'grasp', 'hold', 'bird feeder', 'food', 'perch']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/214419.jpg"
+    },
+    {
+        "id": "74",
+        "img_id": 147972,
+        "question": "What is the object being ridden by the person in the city street scene?",
+        "answer": "['elephant', 'pachyderm', 'beast', 'animal', 'ride', 'mount']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/147972.jpg"
+    },
+    {
+        "id": "398",
+        "img_id": 56413,
+        "question": "What is the object with a neon green color and an arrow under it?",
+        "answer": "['pedestrian crossing sign', 'crossing sign', 'walking sign', 'traffic sign', 'street sign']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/56413.jpg"
+    },
+    {
+        "id": "210",
+        "img_id": 202199,
+        "question": "What is the object around the teddy bear's neck?",
+        "answer": "['tag', 'label', 'identification', 'name', 'name tag', 'identification tag']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/202199.jpg"
+    },
+    {
+        "id": "40",
+        "img_id": 481796,
+        "question": "What object is placed on the desk, holding the two computer screens?",
+        "answer": "['keyboard', 'computer', 'monitor', 'desktop', 'workstation', 'console']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/481796.jpg"
+    },
+    {
+        "id": "373",
+        "img_id": 159346,
+        "question": "What object is present on the table in the living room where the group of people are sitting?",
+        "answer": "['coffee table', 'table', 'console', 'entertainment center', 'media center']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/159346.jpg"
+    },
+    {
+        "id": "176",
+        "img_id": 73671,
+        "question": "What object is being played with by the people in the blurry image?",
+        "answer": "['frisbee', 'disc', 'flying disc', 'saucer', 'platter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/73671.jpg"
+    },
+    {
+        "id": "99",
+        "img_id": 55772,
+        "question": "What object is the ham and egg sitting on top of?",
+        "answer": "['pancake', 'plate', 'breakfast dish', 'breakfast food', 'breakfast item']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/55772.jpg"
+    },
+    {
+        "id": "285",
+        "img_id": 451739,
+        "question": "What is the type of food item on the plates?",
+        "answer": "['chocolate mouse', 'chocolate cake', 'dessert', 'pie', 'mousse', 'chocolate pie']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/451739.jpg"
+    },
+    {
+        "id": "376",
+        "img_id": 465545,
+        "question": "Where is the toilet in relation to the toothbrush?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/465545.jpg"
+    },
+    {
+        "id": "60",
+        "img_id": 24498,
+        "question": "Where is the sink in relation to the cup?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/24498.jpg"
+    },
+    {
+        "id": "204",
+        "img_id": 304930,
+        "question": "Where is the cell phone in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/304930.jpg"
+    },
+    {
+        "id": "72",
+        "img_id": 332705,
+        "question": "Where is the person in relation to the dining table?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/332705.jpg"
+    },
+    {
+        "id": "380",
+        "img_id": 264581,
+        "question": "Where is the pizza in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/264581.jpg"
+    },
+    {
+        "id": "389",
+        "img_id": 335735,
+        "question": "Where is the person in relation to the sports ball?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/335735.jpg"
+    },
+    {
+        "id": "323",
+        "img_id": 19250,
+        "question": "Where is the person in relation to the cup?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/19250.jpg"
+    },
+    {
+        "id": "272",
+        "img_id": 67838,
+        "question": "Where is the boat in relation to the surfboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/67838.jpg"
+    },
+    {
+        "id": "188",
+        "img_id": 159820,
+        "question": "Where is the bottle in relation to the refrigerator?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/159820.jpg"
+    },
+    {
+        "id": "235",
+        "img_id": 204273,
+        "question": "Where is the cup in relation to the baseball glove?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/204273.jpg"
+    },
+    {
+        "id": "102",
+        "img_id": 307156,
+        "question": "Where is the chair in relation to the clock?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/307156.jpg"
+    },
+    {
+        "id": "74",
+        "img_id": 497335,
+        "question": "Where is the apple in relation to the orange?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/497335.jpg"
+    },
+    {
+        "id": "31",
+        "img_id": 509783,
+        "question": "Where is the bench in relation to the elephant?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/509783.jpg"
+    },
+    {
+        "id": "336",
+        "img_id": 493683,
+        "question": "Where is the dining table in relation to the bottle?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/493683.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 35964,
+        "question": "Where is the bottle in relation to the bowl?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/35964.jpg"
+    },
+    {
+        "id": "144",
+        "img_id": 194247,
+        "question": "Where is the backpack in relation to the laptop?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/194247.jpg"
+    },
+    {
+        "id": "356",
+        "img_id": 58630,
+        "question": "Where is the person in relation to the sports ball?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/58630.jpg"
+    },
+    {
+        "id": "145",
+        "img_id": 519852,
+        "question": "Where is the cell phone in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/519852.jpg"
+    },
+    {
+        "id": "97",
+        "img_id": 88433,
+        "question": "Where is the skis in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/88433.jpg"
+    },
+    {
+        "id": "201",
+        "img_id": 301397,
+        "question": "Where is the person in relation to the cell phone?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/301397.jpg"
+    },
+    {
+        "id": "279",
+        "img_id": 512416,
+        "question": "Where is the cake in relation to the microwave?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/512416.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 375875,
+        "question": "Where is the keyboard in relation to the person?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/375875.jpg"
+    },
+    {
+        "id": "399",
+        "img_id": 130458,
+        "question": "Where is the person in relation to the car?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/130458.jpg"
+    },
+    {
+        "id": "82",
+        "img_id": 11475,
+        "question": "Where is the toilet in relation to the cat?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/11475.jpg"
+    },
+    {
+        "id": "378",
+        "img_id": 414320,
+        "question": "Where is the car in relation to the handbag?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/414320.jpg"
+    },
+    {
+        "id": "259",
+        "img_id": 449936,
+        "question": "Where is the dining table in relation to the microwave?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/449936.jpg"
+    },
+    {
+        "id": "338",
+        "img_id": 488563,
+        "question": "Where is the bed in relation to the laptop?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/488563.jpg"
+    },
+    {
+        "id": "158",
+        "img_id": 183202,
+        "question": "Where is the cell phone in relation to the cat?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/183202.jpg"
+    },
+    {
+        "id": "298",
+        "img_id": 563062,
+        "question": "Where is the bench in relation to the kite?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/563062.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 273421,
+        "question": "Where is the cup in relation to the toilet?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/273421.jpg"
+    },
+    {
+        "id": "327",
+        "img_id": 563403,
+        "question": "Where is the laptop in relation to the keyboard?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/563403.jpg"
+    },
+    {
+        "id": "232",
+        "img_id": 155892,
+        "question": "Where is the knife in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/155892.jpg"
+    },
+    {
+        "id": "5",
+        "img_id": 562123,
+        "question": "Where is the spoon in relation to the carrot?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/562123.jpg"
+    },
+    {
+        "id": "128",
+        "img_id": 489735,
+        "question": "Where is the chair in relation to the spoon?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/489735.jpg"
+    },
+    {
+        "id": "320",
+        "img_id": 381889,
+        "question": "Where is the cake in relation to the cell phone?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/381889.jpg"
+    },
+    {
+        "id": "18",
+        "img_id": 270024,
+        "question": "Where is the vase in relation to the couch?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/270024.jpg"
+    },
+    {
+        "id": "73",
+        "img_id": 76681,
+        "question": "Where is the frisbee in relation to the handbag?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/76681.jpg"
+    },
+    {
+        "id": "94",
+        "img_id": 244317,
+        "question": "Where is the donut in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/244317.jpg"
+    },
+    {
+        "id": "303",
+        "img_id": 434930,
+        "question": "Where is the person in relation to the donut?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/434930.jpg"
+    },
+    {
+        "id": "39",
+        "img_id": 269738,
+        "question": "Where is the orange in relation to the bowl?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/oil_painting/269738.jpg"
+    }
+]

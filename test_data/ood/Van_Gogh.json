@@ -1,0 +1,1346 @@
+[
+    {
+        "id": "22",
+        "img_id": 131364,
+        "question": "What is the shape of the wind streamers used by the people flying kites?",
+        "answer": "['squid-like', 'octopus-shaped', 'tentacle-like', 'serpentine']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/131364.jpg"
+    },
+    {
+        "id": "54",
+        "img_id": 400204,
+        "question": "What is the shape of the toilet?",
+        "answer": "['round', 'circular', 'cylindrical', 'curvaceous', 'spherical']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/400204.jpg"
+    },
+    {
+        "id": "58",
+        "img_id": 576564,
+        "question": "What is the color of the cows?",
+        "answer": "['black', 'dark', 'ebony', 'obsidian']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/576564.jpg"
+    },
+    {
+        "id": "61",
+        "img_id": 303556,
+        "question": "What is the texture of the beach where the man and woman are playing with the frisbee?",
+        "answer": "['sandy', 'grainy', 'coarse', 'fine', 'powdery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/303556.jpg"
+    },
+    {
+        "id": "63",
+        "img_id": 220160,
+        "question": "What is the color of the street signs?",
+        "answer": "['red', 'crimson', 'scarlet', 'ruby']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/220160.jpg"
+    },
+    {
+        "id": "64",
+        "img_id": 42862,
+        "question": "What is the material used for the bench?",
+        "answer": "['wooden', 'timber', 'lumber', 'woodwork']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/42862.jpg"
+    },
+    {
+        "id": "67",
+        "img_id": 16902,
+        "question": "What is the affiliation or ownership of the airplane?",
+        "answer": "['FedEx', 'courier', 'logistics', 'delivery', 'cargo', 'commercial']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/16902.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 112988,
+        "question": "What is the state of the cake?",
+        "answer": "['half-eaten', 'partially consumed', 'partially devoured', 'partially finished', 'partially consumed']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/112988.jpg"
+    },
+    {
+        "id": "74",
+        "img_id": 334473,
+        "question": "What is the position of the baseball player who struck out?",
+        "answer": "['batter', 'striker', 'hitter', 'at-bat', 'plate player']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/334473.jpg"
+    },
+    {
+        "id": "137",
+        "img_id": 23489,
+        "question": "What is the type of boat being used?",
+        "answer": "['speedboat', 'small boat', 'vessel', 'craft', 'watercraft']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/23489.jpg"
+    },
+    {
+        "id": "138",
+        "img_id": 98563,
+        "question": "What is the style or era of the vase?",
+        "answer": "['antique', 'vintage', 'classic', 'retro', 'old-fashioned']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/98563.jpg"
+    },
+    {
+        "id": "148",
+        "img_id": 109169,
+        "question": "What is the material used to make the clock?",
+        "answer": "['gold', 'golden', 'yellow', 'aurous', 'metallic']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/109169.jpg"
+    },
+    {
+        "id": "188",
+        "img_id": 18688,
+        "question": "What is the shape of the baseball bat?",
+        "answer": "['curved', 'bent', 'contoured', 'rounded', 'elliptical']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/18688.jpg"
+    },
+    {
+        "id": "192",
+        "img_id": 450400,
+        "question": "What is the color of the man's outfit?",
+        "answer": "['black', 'dark', 'ebony', 'obsidian', 'dark-colored']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/450400.jpg"
+    },
+    {
+        "id": "196",
+        "img_id": 328783,
+        "question": "What is the surface or terrain that the giraffe is walking on?",
+        "answer": "['dirt', 'earth', 'ground', 'soil', 'terrain']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/328783.jpg"
+    },
+    {
+        "id": "207",
+        "img_id": 334938,
+        "question": "What is the color of the refrigerator?",
+        "answer": "['black', 'dark', 'gray', 'silver', 'grey']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/334938.jpg"
+    },
+    {
+        "id": "210",
+        "img_id": 78283,
+        "question": "What is the arrangement or organization of the fruits?",
+        "answer": "['arranged', 'displayed', 'grouped', 'categorized', 'sorted', 'classified']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/78283.jpg"
+    },
+    {
+        "id": "225",
+        "img_id": 144772,
+        "question": "What is the color of the man's shirt?",
+        "answer": "['black', 'dark', 'ebony', 'shadowy']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/144772.jpg"
+    },
+    {
+        "id": "254",
+        "img_id": 144747,
+        "question": "What is the shape of the dessert?",
+        "answer": "['round', 'circular', 'curved', 'spherical', 'domed']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/144747.jpg"
+    },
+    {
+        "id": "259",
+        "img_id": 461775,
+        "question": "What is the surface that the cat is laying on?",
+        "answer": "['pavement', 'road', 'ground', 'asphalt', 'concrete']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/461775.jpg"
+    },
+    {
+        "id": "269",
+        "img_id": 450555,
+        "question": "What is the shape of the computer mouse?",
+        "answer": "['rounded', 'curved', 'oval', 'elliptical', 'cylindrical']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/450555.jpg"
+    },
+    {
+        "id": "274",
+        "img_id": 165133,
+        "question": "What is the color pattern of the surfboard?",
+        "answer": "['black and white', 'monochrome', 'bi-colored', 'two-toned', 'striped']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/165133.jpg"
+    },
+    {
+        "id": "276",
+        "img_id": 519157,
+        "question": "What type of object is the man looking at in the refrigerator?",
+        "answer": "['food', 'groceries', 'provisions', 'edibles', 'comestibles']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/519157.jpg"
+    },
+    {
+        "id": "278",
+        "img_id": 281112,
+        "question": "What is the typical purpose or function of the object being worn on the head?",
+        "answer": "['accessory', 'adornment', 'decoration', 'headpiece', 'hat', 'headdress']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/281112.jpg"
+    },
+    {
+        "id": "280",
+        "img_id": 534887,
+        "question": "What is the shape of the food item held by the young man?",
+        "answer": "['round', 'circular', 'spherical', 'doughnut-shaped']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/534887.jpg"
+    },
+    {
+        "id": "290",
+        "img_id": 54562,
+        "question": "What is the color scheme of the train?",
+        "answer": "['red', 'crimson', 'scarlet', 'crimson-red', 'red-and-white']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/54562.jpg"
+    },
+    {
+        "id": "308",
+        "img_id": 163142,
+        "question": "What is the shape of the elephant's eye?",
+        "answer": "['almond', 'elliptical', 'oval', 'rounded', 'elliptoid']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/163142.jpg"
+    },
+    {
+        "id": "317",
+        "img_id": 571880,
+        "question": "What is the transparency of the water tank?",
+        "answer": "['clear', 'transparent', 'translucent', 'see-through']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/571880.jpg"
+    },
+    {
+        "id": "324",
+        "img_id": 254277,
+        "question": "What is the material of the vase?",
+        "answer": "['silver', 'metallic', 'metal', 'tin', 'tinplate']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/254277.jpg"
+    },
+    {
+        "id": "367",
+        "img_id": 213537,
+        "question": "What is the type of boat being ridden by the man?",
+        "answer": "['motorboat', 'speedboat', 'powerboat', 'small boat', 'vessel']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/213537.jpg"
+    },
+    {
+        "id": "395",
+        "img_id": 382069,
+        "question": "What is the surface or terrain on which the people are performing tricks?",
+        "answer": "['pavement', 'ground', 'concrete', 'asphalt', 'terrain', 'surface']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/382069.jpg"
+    },
+    {
+        "id": "5",
+        "img_id": 47481,
+        "question": "What is the material used for the kitchen appliance?",
+        "answer": "['stainless', 'steel', 'metallic', 'metal']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/47481.jpg"
+    },
+    {
+        "id": "13",
+        "img_id": 368893,
+        "question": "What is the shape of the sign?",
+        "answer": "['rectangular', 'square', 'flat']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/368893.jpg"
+    },
+    {
+        "id": "20",
+        "img_id": 396188,
+        "question": "What is the type of vehicle being ridden by the cop?",
+        "answer": "['motorcycle', 'bike', 'cycle', 'motorbike']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/396188.jpg"
+    },
+    {
+        "id": "24",
+        "img_id": 219784,
+        "question": "What is the color of the man's hat?",
+        "answer": "['black', 'dark', 'ebony', 'obsidian']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/219784.jpg"
+    },
+    {
+        "id": "34",
+        "img_id": 565480,
+        "question": "What is the surface or material of the stairs?",
+        "answer": "['stone', 'concrete', 'marble', 'granite', 'pavement']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/565480.jpg"
+    },
+    {
+        "id": "43",
+        "img_id": 305425,
+        "question": "What is the weather condition in the scene?",
+        "answer": "['rainy', 'wet', 'precipitation', 'precipitationary', 'inclement weather']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/305425.jpg"
+    },
+    {
+        "id": "47",
+        "img_id": 457725,
+        "question": "What is the location of the police officer?",
+        "answer": "['roadside', 'street', 'highway', 'middle of the road', 'on the pavement']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/457725.jpg"
+    },
+    {
+        "id": "88",
+        "img_id": 486605,
+        "question": "What is the surface type of the area where the skateboarder is performing the jump?",
+        "answer": "['concrete', 'pavement', 'asphalt', 'ground']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/486605.jpg"
+    },
+    {
+        "id": "128",
+        "img_id": 270918,
+        "question": "What is the shape of the steeple on the building?",
+        "answer": "['pointed', 'tapering', 'conical', 'spire-like', 'steepled']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/270918.jpg"
+    },
+    {
+        "id": "8",
+        "img_id": 65238,
+        "question": "How many sports balls, people, and tennis rackets are there?",
+        "answer": "{'sports ball': 1, 'person': 2, 'tennis racket': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/65238.jpg"
+    },
+    {
+        "id": "22",
+        "img_id": 421229,
+        "question": "How many mice, laptops, and beds are there?",
+        "answer": "{'mouse': 1, 'laptop': 2, 'bed': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/421229.jpg"
+    },
+    {
+        "id": "28",
+        "img_id": 517906,
+        "question": "How many people, sports balls, and tennis rackets are there?",
+        "answer": "{'person': 1, 'sports ball': 2, 'tennis racket': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/517906.jpg"
+    },
+    {
+        "id": "39",
+        "img_id": 536534,
+        "question": "How many backpacks, bicycles, and buses are there?",
+        "answer": "{'backpack': 1, 'bicycle': 1, 'bus': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/536534.jpg"
+    },
+    {
+        "id": "52",
+        "img_id": 31081,
+        "question": "How many dining tables, people, and backpacks are there?",
+        "answer": "{'dining table': 2, 'person': 4, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/31081.jpg"
+    },
+    {
+        "id": "63",
+        "img_id": 480257,
+        "question": "How many sandwiches, people, and dining tables are there?",
+        "answer": "{'sandwich': 2, 'person': 1, 'dining table': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/480257.jpg"
+    },
+    {
+        "id": "68",
+        "img_id": 30347,
+        "question": "How many ovens, chairs, and people are there?",
+        "answer": "{'oven': 1, 'chair': 3, 'person': 4}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/30347.jpg"
+    },
+    {
+        "id": "93",
+        "img_id": 175615,
+        "question": "How many people, handbags, and surfboards are there?",
+        "answer": "{'person': 3, 'handbag': 1, 'surfboard': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/175615.jpg"
+    },
+    {
+        "id": "96",
+        "img_id": 446365,
+        "question": "How many spoons, cups, and cakes are there?",
+        "answer": "{'spoon': 2, 'cup': 1, 'cake': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/446365.jpg"
+    },
+    {
+        "id": "105",
+        "img_id": 545317,
+        "question": "How many vases, sinks, and toilets are there?",
+        "answer": "{'vase': 2, 'sink': 1, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/545317.jpg"
+    },
+    {
+        "id": "109",
+        "img_id": 42418,
+        "question": "How many tennis rackets, cars, and umbrellas are there?",
+        "answer": "{'tennis racket': 1, 'car': 2, 'umbrella': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/42418.jpg"
+    },
+    {
+        "id": "110",
+        "img_id": 440528,
+        "question": "How many spoons, cakes, and knives are there?",
+        "answer": "{'spoon': 2, 'cake': 1, 'knife': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/440528.jpg"
+    },
+    {
+        "id": "113",
+        "img_id": 222370,
+        "question": "How many cars, people, and motorcycles are there?",
+        "answer": "{'car': 1, 'person': 3, 'motorcycle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/222370.jpg"
+    },
+    {
+        "id": "115",
+        "img_id": 411430,
+        "question": "How many birds, scissors, and people are there?",
+        "answer": "{'bird': 2, 'scissors': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/411430.jpg"
+    },
+    {
+        "id": "146",
+        "img_id": 516570,
+        "question": "How many baseball bats, people, and sports balls are there?",
+        "answer": "{'baseball bat': 1, 'person': 3, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/516570.jpg"
+    },
+    {
+        "id": "147",
+        "img_id": 511062,
+        "question": "How many people, surfboards, and backpacks are there?",
+        "answer": "{'person': 2, 'surfboard': 1, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/511062.jpg"
+    },
+    {
+        "id": "150",
+        "img_id": 247234,
+        "question": "How many cars, couches, and laptops are there?",
+        "answer": "{'car': 2, 'couch': 1, 'laptop': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/247234.jpg"
+    },
+    {
+        "id": "190",
+        "img_id": 134016,
+        "question": "How many broccolis, dining tables, and bowls are there?",
+        "answer": "{'broccoli': 1, 'dining table': 1, 'bowl': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/134016.jpg"
+    },
+    {
+        "id": "206",
+        "img_id": 353817,
+        "question": "How many potted plants, vases, and chairs are there?",
+        "answer": "{'potted plant': 1, 'vase': 2, 'chair': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/353817.jpg"
+    },
+    {
+        "id": "231",
+        "img_id": 265744,
+        "question": "How many horses, cups, and people are there?",
+        "answer": "{'horse': 2, 'cup': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/265744.jpg"
+    },
+    {
+        "id": "280",
+        "img_id": 516265,
+        "question": "How many laptops, teddy bears, and cups are there?",
+        "answer": "{'laptop': 1, 'teddy bear': 2, 'cup': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/516265.jpg"
+    },
+    {
+        "id": "296",
+        "img_id": 22777,
+        "question": "How many ties, books, and benches are there?",
+        "answer": "{'tie': 2, 'book': 1, 'bench': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/22777.jpg"
+    },
+    {
+        "id": "297",
+        "img_id": 137395,
+        "question": "How many sports balls, people, and baseball bats are there?",
+        "answer": "{'sports ball': 1, 'person': 2, 'baseball bat': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/137395.jpg"
+    },
+    {
+        "id": "309",
+        "img_id": 424108,
+        "question": "How many dining tables, chairs, and potted plants are there?",
+        "answer": "{'dining table': 1, 'chair': 2, 'potted plant': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/424108.jpg"
+    },
+    {
+        "id": "322",
+        "img_id": 160233,
+        "question": "How many cars, umbrellas, and buses are there?",
+        "answer": "{'car': 4, 'umbrella': 2, 'bus': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/160233.jpg"
+    },
+    {
+        "id": "349",
+        "img_id": 223595,
+        "question": "How many people, baseball bats, and sports balls are there?",
+        "answer": "{'person': 3, 'baseball bat': 1, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/223595.jpg"
+    },
+    {
+        "id": "351",
+        "img_id": 124893,
+        "question": "How many couches, chairs, and tvs are there?",
+        "answer": "{'couch': 2, 'chair': 2, 'tv': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/124893.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 540569,
+        "question": "How many motorcycles, handbags, and buses are there?",
+        "answer": "{'motorcycle': 2, 'handbag': 2, 'bus': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/540569.jpg"
+    },
+    {
+        "id": "64",
+        "img_id": 94033,
+        "question": "How many people, frisbees, and handbags are there?",
+        "answer": "{'person': 2, 'frisbee': 2, 'handbag': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/94033.jpg"
+    },
+    {
+        "id": "92",
+        "img_id": 258071,
+        "question": "How many dining tables, chairs, and people are there?",
+        "answer": "{'dining table': 1, 'chair': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/258071.jpg"
+    },
+    {
+        "id": "241",
+        "img_id": 301603,
+        "question": "How many cups, laptops, and clocks are there?",
+        "answer": "{'cup': 2, 'laptop': 1, 'clock': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/301603.jpg"
+    },
+    {
+        "id": "294",
+        "img_id": 457268,
+        "question": "How many bottles, toothbrushes, and toilets are there?",
+        "answer": "{'bottle': 1, 'toothbrush': 3, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/457268.jpg"
+    },
+    {
+        "id": "363",
+        "img_id": 404812,
+        "question": "How many remotes, dogs, and couches are there?",
+        "answer": "{'remote': 2, 'dog': 1, 'couch': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/404812.jpg"
+    },
+    {
+        "id": "51",
+        "img_id": 210752,
+        "question": "How many dining tables, bowls, and cakes are there?",
+        "answer": "{'dining table': 1, 'bowl': 1, 'cake': 7}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/210752.jpg"
+    },
+    {
+        "id": "114",
+        "img_id": 79244,
+        "question": "How many people, benches, and dogs are there?",
+        "answer": "{'person': 2, 'bench': 1, 'dog': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/79244.jpg"
+    },
+    {
+        "id": "117",
+        "img_id": 27149,
+        "question": "How many tvs, people, and couches are there?",
+        "answer": "{'tv': 1, 'person': 2, 'couch': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/27149.jpg"
+    },
+    {
+        "id": "131",
+        "img_id": 71970,
+        "question": "How many buses, cows, and traffic lights are there?",
+        "answer": "{'bus': 1, 'cow': 3, 'traffic light': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/71970.jpg"
+    },
+    {
+        "id": "194",
+        "img_id": 145637,
+        "question": "How many backpacks, surfboards, and people are there?",
+        "answer": "{'backpack': 1, 'surfboard': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/145637.jpg"
+    },
+    {
+        "id": "211",
+        "img_id": 146186,
+        "question": "How many vases, bowls, and sinks are there?",
+        "answer": "{'vase': 2, 'bowl': 2, 'sink': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/146186.jpg"
+    },
+    {
+        "id": "252",
+        "img_id": 53479,
+        "question": "How many books, cell phones, and cups are there?",
+        "answer": "{'book': 3, 'cell phone': 1, 'cup': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/53479.jpg"
+    },
+    {
+        "id": "263",
+        "img_id": 309413,
+        "question": "How many baseball gloves, baseball bats, and people are there?",
+        "answer": "{'baseball glove': 1, 'baseball bat': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/309413.jpg"
+    },
+    {
+        "id": "278",
+        "img_id": 423083,
+        "question": "How many mice, tvs, and bottles are there?",
+        "answer": "{'mouse': 1, 'tv': 2, 'bottle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/423083.jpg"
+    },
+    {
+        "id": "281",
+        "img_id": 84230,
+        "question": "How many horses, ties, and people are there?",
+        "answer": "{'horse': 1, 'tie': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/84230.jpg"
+    },
+    {
+        "id": "313",
+        "img_id": 179462,
+        "question": "How many bananas, oranges, and dining tables are there?",
+        "answer": "{'banana': 4, 'orange': 2, 'dining table': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/179462.jpg"
+    },
+    {
+        "id": "340",
+        "img_id": 425325,
+        "question": "How many beds, remotes, and people are there?",
+        "answer": "{'bed': 1, 'remote': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/425325.jpg"
+    },
+    {
+        "id": "346",
+        "img_id": 200879,
+        "question": "How many toothbrushes, beds, and people are there?",
+        "answer": "{'toothbrush': 1, 'bed': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/200879.jpg"
+    },
+    {
+        "id": "352",
+        "img_id": 568731,
+        "question": "How many spoons, bowls, and sandwiches are there?",
+        "answer": "{'spoon': 1, 'bowl': 1, 'sandwich': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/568731.jpg"
+    },
+    {
+        "id": "365",
+        "img_id": 56341,
+        "question": "How many tvs, chairs, and potted plants are there?",
+        "answer": "{'tv': 1, 'chair': 2, 'potted plant': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/56341.jpg"
+    },
+    {
+        "id": "88",
+        "img_id": 179620,
+        "question": "What object is stacked next to the toilet bowl?",
+        "answer": "['toilet paper', 'tissue', 'rolls', 'sanitary products', 'bathroom supplies']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/179620.jpg"
+    },
+    {
+        "id": "28",
+        "img_id": 294603,
+        "question": "What is the object that the man is standing next to?",
+        "answer": "['scorpion woods sign', 'ski slope sign', 'mountain sign', 'trail sign', 'winter trail sign']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/294603.jpg"
+    },
+    {
+        "id": "129",
+        "img_id": 18633,
+        "question": "What object is the dogs standing in front of?",
+        "answer": "['door', 'entrance', 'gate', 'porch', 'threshold', 'entranceway']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/18633.jpg"
+    },
+    {
+        "id": "42",
+        "img_id": 562015,
+        "question": "What is the object that the cat is reclining on?",
+        "answer": "['blanket', 'bed cover', 'pink blanket', 'stitched pink bed cover']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/562015.jpg"
+    },
+    {
+        "id": "296",
+        "img_id": 43411,
+        "question": "What object is the woman standing in front of?",
+        "answer": "['baked goods', 'pastries', 'treats', 'desserts', 'sweets', 'confections', 'cakes', 'cookies', 'pies']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/43411.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 414350,
+        "question": "What is the object with multiple markers hanging every which way?",
+        "answer": "['street sign', 'road sign', 'directional sign', 'signpost', 'marker', 'indicator']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/414350.jpg"
+    },
+    {
+        "id": "176",
+        "img_id": 73671,
+        "question": "What object is being played with by the people in the blurry image?",
+        "answer": "['frisbee', 'disc', 'flying disc', 'saucer', 'platter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/73671.jpg"
+    },
+    {
+        "id": "317",
+        "img_id": 158334,
+        "question": "What object is the woman holding in the snowy scene?",
+        "answer": "['umbrella', 'parasol', 'canopy', 'brolly', 'rain shelter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/158334.jpg"
+    },
+    {
+        "id": "267",
+        "img_id": 385341,
+        "question": "What object is being held by the people sitting on the couch?",
+        "answer": "['Wii remote', 'game controller', 'remote control', 'controller']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/385341.jpg"
+    },
+    {
+        "id": "204",
+        "img_id": 45383,
+        "question": "What is the object sitting on the window sill?",
+        "answer": "['vases', 'planters', 'decorative objects', 'pots', 'containers']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/45383.jpg"
+    },
+    {
+        "id": "94",
+        "img_id": 575121,
+        "question": "What object is the giraffe standing next to?",
+        "answer": "['rocks', 'stones', 'boulders', 'pebbles', 'aggregate']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/575121.jpg"
+    },
+    {
+        "id": "74",
+        "img_id": 147972,
+        "question": "What is the object being ridden by the person in the city street scene?",
+        "answer": "['elephant', 'pachyderm', 'beast', 'animal', 'ride', 'mount']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/147972.jpg"
+    },
+    {
+        "id": "294",
+        "img_id": 299641,
+        "question": "What is the object sitting in the grassy field?",
+        "answer": "['wooden boat', 'boat', 'ride', 'enclosure', 'play structure', 'playhouse', 'play area', 'merry-go-round', 'carousel']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/299641.jpg"
+    },
+    {
+        "id": "359",
+        "img_id": 349561,
+        "question": "What is the bird standing outside the door with clear windows?",
+        "answer": "['stork', 'bird', 'avian', 'wading bird', 'heron', 'crane']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/349561.jpg"
+    },
+    {
+        "id": "299",
+        "img_id": 281977,
+        "question": "What object is the dog carrying in its mouth?",
+        "answer": "['Frisbee', 'disc', 'toy', 'flying disc', 'catch']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/281977.jpg"
+    },
+    {
+        "id": "396",
+        "img_id": 568156,
+        "question": "What object is the dog holding in its mouth?",
+        "answer": "['frisbee', 'flying disc', 'disc', 'catch', 'retrieve']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/568156.jpg"
+    },
+    {
+        "id": "239",
+        "img_id": 287882,
+        "question": "What object is the man holding while on the tennis court?",
+        "answer": "['tennis racket', 'racket', 'tennis equipment', 'sports equipment', 'racquet']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/287882.jpg"
+    },
+    {
+        "id": "346",
+        "img_id": 551315,
+        "question": "What is the object surrounded by a large crowd of people?",
+        "answer": "['fire hydrant', 'hydrant', 'water valve', 'valve', 'fireplug']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/551315.jpg"
+    },
+    {
+        "id": "136",
+        "img_id": 544312,
+        "question": "What object is being thrown by the woman in the yellow shirt?",
+        "answer": "['controller', 'gamepad', 'joystick', 'console', 'gaming device']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/544312.jpg"
+    },
+    {
+        "id": "352",
+        "img_id": 572554,
+        "question": "What object is being held by the man in the scene?",
+        "answer": "['pastry', 'donut', 'treat', 'dessert', 'snack']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/572554.jpg"
+    },
+    {
+        "id": "372",
+        "img_id": 144633,
+        "question": "What object is filled with broccoli and placed next to other fruits and vegetables?",
+        "answer": "['basket', 'container', 'wicker', 'woven', 'receptacle', 'vessel']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/144633.jpg"
+    },
+    {
+        "id": "380",
+        "img_id": 243231,
+        "question": "What is the object resting on the pillow of the bed in the dorm?",
+        "answer": "['stuffed animal', 'toy', 'plush', 'pillow', 'fish']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/243231.jpg"
+    },
+    {
+        "id": "83",
+        "img_id": 115875,
+        "question": "What object is the little girl holding in her hand while sitting on the floor?",
+        "answer": "['Wii remote', 'game controller', 'console controller', 'gaming controller']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/115875.jpg"
+    },
+    {
+        "id": "55",
+        "img_id": 467491,
+        "question": "What is the type of bird standing next to each other in the marshland?",
+        "answer": "['cranes', 'ducks', 'waterfowl', 'birds', 'white birds']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/467491.jpg"
+    },
+    {
+        "id": "93",
+        "img_id": 160423,
+        "question": "What is the type of vehicle that the family is sitting inside?",
+        "answer": "['toy bus', 'play bus', 'double-decker bus', 'transport bus', 'mock bus']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/160423.jpg"
+    },
+    {
+        "id": "362",
+        "img_id": 485913,
+        "question": "What is the type of vehicle being ridden down the street?",
+        "answer": "['double decker bus', 'red bus', 'double decker', 'bus', 'coach']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/485913.jpg"
+    },
+    {
+        "id": "145",
+        "img_id": 22478,
+        "question": "What object is sitting on the hardwood floor in the room?",
+        "answer": "['sofa', 'couch', 'bed', 'furniture', 'piece of furniture']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/22478.jpg"
+    },
+    {
+        "id": "102",
+        "img_id": 512509,
+        "question": "What object is the woman holding in her hand, aside from the burger?",
+        "answer": "['plate', 'bowl', 'dish', 'servingware', 'tableware']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/512509.jpg"
+    },
+    {
+        "id": "50",
+        "img_id": 291592,
+        "question": "What object is being used by the man to prepare food in the kitchen?",
+        "answer": "['pan', 'skillet', 'cooking vessel', 'cooking pot', 'frying pan']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/291592.jpg"
+    },
+    {
+        "id": "214",
+        "img_id": 242656,
+        "question": "What object is the cattle grazing behind?",
+        "answer": "['fence', 'enclosure', 'barrier', 'boundary', 'railing']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/242656.jpg"
+    },
+    {
+        "id": "122",
+        "img_id": 181386,
+        "question": "What is the object that the train is crossing over?",
+        "answer": "['bridge', 'viaduct', 'railroad bridge', 'railway bridge', 'trestle']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/181386.jpg"
+    },
+    {
+        "id": "303",
+        "img_id": 536374,
+        "question": "What object is the woman standing next to while talking on the phone?",
+        "answer": "['phone booth', 'phone box', 'payphone', 'public phone', 'booth', 'box']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/536374.jpg"
+    },
+    {
+        "id": "78",
+        "img_id": 87595,
+        "question": "What object is the white cat sitting next to or leaning on?",
+        "answer": "['laptop', 'computer', 'monitor', 'notebook', 'portable computer']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/87595.jpg"
+    },
+    {
+        "id": "101",
+        "img_id": 467564,
+        "question": "What is the object that the people and vehicles are moving along?",
+        "answer": "['street', 'road', 'highway', 'avenue', 'boulevard', 'thoroughfare']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/467564.jpg"
+    },
+    {
+        "id": "90",
+        "img_id": 506075,
+        "question": "What object is being held by the two men in the living room?",
+        "answer": "['Wii game controllers', 'Nintendo Wii controllers', 'gamepads', 'console controllers']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/506075.jpg"
+    },
+    {
+        "id": "35",
+        "img_id": 456695,
+        "question": "What is the object attached to the front of the blue bicycle?",
+        "answer": "['blender', 'juicer', 'attachment', 'bike attachment', 'kitchen appliance']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/456695.jpg"
+    },
+    {
+        "id": "311",
+        "img_id": 315581,
+        "question": "What object is the dog staring at in the scene?",
+        "answer": "['mirror', 'reflective surface', 'glass', 'reflective glass', 'reflective pane']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/315581.jpg"
+    },
+    {
+        "id": "274",
+        "img_id": 228565,
+        "question": "What is the object that the zebra is moving in the field?",
+        "answer": "['tail', 'swinging tail', 'wagging tail', 'swishing tail']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/228565.jpg"
+    },
+    {
+        "id": "23",
+        "img_id": 78781,
+        "question": "What object is being thrown by the boy in the park scene?",
+        "answer": "['Frisbee', 'disc', 'flying disc', 'toy', 'recreational equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/78781.jpg"
+    },
+    {
+        "id": "121",
+        "img_id": 470189,
+        "question": "What is the object that the girl is standing next to on the side of the road?",
+        "answer": "['motorcycle', 'motorbike', 'bike', 'cycle', 'scooter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/470189.jpg"
+    },
+    {
+        "id": "82",
+        "img_id": 11475,
+        "question": "Where is the toilet in relation to the cat?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/11475.jpg"
+    },
+    {
+        "id": "213",
+        "img_id": 62237,
+        "question": "Where is the laptop in relation to the tv?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/62237.jpg"
+    },
+    {
+        "id": "233",
+        "img_id": 204853,
+        "question": "Where is the dining table in relation to the cake?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/204853.jpg"
+    },
+    {
+        "id": "201",
+        "img_id": 301397,
+        "question": "Where is the person in relation to the cell phone?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/301397.jpg"
+    },
+    {
+        "id": "164",
+        "img_id": 216685,
+        "question": "Where is the fork in relation to the bottle?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/216685.jpg"
+    },
+    {
+        "id": "251",
+        "img_id": 447627,
+        "question": "Where is the fork in relation to the knife?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/447627.jpg"
+    },
+    {
+        "id": "322",
+        "img_id": 271500,
+        "question": "Where is the book in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/271500.jpg"
+    },
+    {
+        "id": "266",
+        "img_id": 116582,
+        "question": "Where is the laptop in relation to the cup?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/116582.jpg"
+    },
+    {
+        "id": "303",
+        "img_id": 434930,
+        "question": "Where is the person in relation to the donut?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/434930.jpg"
+    },
+    {
+        "id": "320",
+        "img_id": 381889,
+        "question": "Where is the cake in relation to the cell phone?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/381889.jpg"
+    },
+    {
+        "id": "72",
+        "img_id": 332705,
+        "question": "Where is the person in relation to the dining table?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/332705.jpg"
+    },
+    {
+        "id": "97",
+        "img_id": 88433,
+        "question": "Where is the skis in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/88433.jpg"
+    },
+    {
+        "id": "389",
+        "img_id": 335735,
+        "question": "Where is the person in relation to the sports ball?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/335735.jpg"
+    },
+    {
+        "id": "376",
+        "img_id": 465545,
+        "question": "Where is the toilet in relation to the toothbrush?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/465545.jpg"
+    },
+    {
+        "id": "76",
+        "img_id": 220843,
+        "question": "Where is the bicycle in relation to the bus?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/220843.jpg"
+    },
+    {
+        "id": "272",
+        "img_id": 67838,
+        "question": "Where is the boat in relation to the surfboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/67838.jpg"
+    },
+    {
+        "id": "399",
+        "img_id": 130458,
+        "question": "Where is the person in relation to the car?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/130458.jpg"
+    },
+    {
+        "id": "57",
+        "img_id": 139930,
+        "question": "Where is the bottle in relation to the handbag?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/139930.jpg"
+    },
+    {
+        "id": "235",
+        "img_id": 204273,
+        "question": "Where is the cup in relation to the baseball glove?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/204273.jpg"
+    },
+    {
+        "id": "335",
+        "img_id": 131980,
+        "question": "Where is the oven in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/131980.jpg"
+    },
+    {
+        "id": "1",
+        "img_id": 327038,
+        "question": "Where is the knife in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/327038.jpg"
+    },
+    {
+        "id": "224",
+        "img_id": 222411,
+        "question": "Where is the bird in relation to the person?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/222411.jpg"
+    },
+    {
+        "id": "280",
+        "img_id": 140209,
+        "question": "Where is the sports ball in relation to the baseball bat?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/140209.jpg"
+    },
+    {
+        "id": "171",
+        "img_id": 539647,
+        "question": "Where is the cake in relation to the clock?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/539647.jpg"
+    },
+    {
+        "id": "144",
+        "img_id": 194247,
+        "question": "Where is the backpack in relation to the laptop?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/194247.jpg"
+    },
+    {
+        "id": "9",
+        "img_id": 158378,
+        "question": "Where is the clock in relation to the laptop?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/158378.jpg"
+    },
+    {
+        "id": "56",
+        "img_id": 420615,
+        "question": "Where is the sink in relation to the bottle?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/420615.jpg"
+    },
+    {
+        "id": "26",
+        "img_id": 310035,
+        "question": "Where is the person in relation to the handbag?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/310035.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 35964,
+        "question": "Where is the bottle in relation to the bowl?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/35964.jpg"
+    },
+    {
+        "id": "393",
+        "img_id": 62703,
+        "question": "Where is the bed in relation to the keyboard?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/62703.jpg"
+    },
+    {
+        "id": "188",
+        "img_id": 159820,
+        "question": "Where is the bottle in relation to the refrigerator?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/159820.jpg"
+    },
+    {
+        "id": "344",
+        "img_id": 38034,
+        "question": "Where is the chair in relation to the keyboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/38034.jpg"
+    },
+    {
+        "id": "120",
+        "img_id": 358334,
+        "question": "Where is the vase in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/358334.jpg"
+    },
+    {
+        "id": "295",
+        "img_id": 321127,
+        "question": "Where is the cell phone in relation to the couch?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/321127.jpg"
+    },
+    {
+        "id": "136",
+        "img_id": 107233,
+        "question": "Where is the dining table in relation to the handbag?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/107233.jpg"
+    },
+    {
+        "id": "71",
+        "img_id": 375875,
+        "question": "Where is the keyboard in relation to the person?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/375875.jpg"
+    },
+    {
+        "id": "161",
+        "img_id": 485931,
+        "question": "Where is the refrigerator in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/485931.jpg"
+    },
+    {
+        "id": "238",
+        "img_id": 468319,
+        "question": "Where is the sports ball in relation to the person?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/468319.jpg"
+    },
+    {
+        "id": "177",
+        "img_id": 319406,
+        "question": "Where is the bench in relation to the fire hydrant?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/319406.jpg"
+    },
+    {
+        "id": "356",
+        "img_id": 58630,
+        "question": "Where is the person in relation to the sports ball?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/Van_Gogh/58630.jpg"
+    }
+]

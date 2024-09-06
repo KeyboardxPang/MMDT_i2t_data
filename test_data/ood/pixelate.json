@@ -1,0 +1,1282 @@
+[
+    {
+        "id": "238",
+        "img_id": 536879,
+        "question": "What type of device is the man using on his head?",
+        "answer": "['headphones', 'earphones', 'headsets', 'earbuds', 'audio headphones']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/536879.jpg"
+    },
+    {
+        "id": "120",
+        "img_id": 363273,
+        "question": "What is the material used for the vase?",
+        "answer": "['ceramic', 'porcelain', 'earthenware', 'terracotta', 'pottery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/363273.jpg"
+    },
+    {
+        "id": "51",
+        "img_id": 58841,
+        "question": "What is the color of the planters?",
+        "answer": "['black', 'dark', 'ebony', 'obsidian']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/58841.jpg"
+    },
+    {
+        "id": "39",
+        "img_id": 576212,
+        "question": "What is the number of keyboards in the scene?",
+        "answer": "['two', 'dual', 'paired', 'multiple']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/576212.jpg"
+    },
+    {
+        "id": "248",
+        "img_id": 217672,
+        "question": "What is the condition of the toilet?",
+        "answer": "['dirty', 'grimy', 'filthy', 'unclean', 'unsanitary']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/217672.jpg"
+    },
+    {
+        "id": "128",
+        "img_id": 270918,
+        "question": "What is the shape of the steeple on the building?",
+        "answer": "['pointed', 'tapering', 'conical', 'spire-like', 'steepled']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/270918.jpg"
+    },
+    {
+        "id": "74",
+        "img_id": 334473,
+        "question": "What is the position of the baseball player who struck out?",
+        "answer": "['batter', 'striker', 'hitter', 'at-bat', 'plate player']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/334473.jpg"
+    },
+    {
+        "id": "347",
+        "img_id": 75708,
+        "question": "What is the posture or position of the skier?",
+        "answer": "['standing', 'upright', 'vertical', 'stationary', 'still']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/75708.jpg"
+    },
+    {
+        "id": "103",
+        "img_id": 172813,
+        "question": "What is the shape of the couch in the living room?",
+        "answer": "['semi-circular', 'curved', 'rounded', 'arched']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/172813.jpg"
+    },
+    {
+        "id": "364",
+        "img_id": 106144,
+        "question": "What is the surface on which the man is sleeping?",
+        "answer": "['floor', 'ground', 'pavement', 'surface', 'terrain']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/106144.jpg"
+    },
+    {
+        "id": "363",
+        "img_id": 87177,
+        "question": "What is the shape of the carrots on the plate?",
+        "answer": "['sliced', 'cut', 'diced', 'chopped', 'shredded']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/87177.jpg"
+    },
+    {
+        "id": "221",
+        "img_id": 123975,
+        "question": "What is the surface or terrain type of the road?",
+        "answer": "['dirt', 'earth', 'ground', 'terrain', 'trail', 'path']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/123975.jpg"
+    },
+    {
+        "id": "277",
+        "img_id": 573726,
+        "question": "What is the color pattern of the cat?",
+        "answer": "['black and white', 'monochromatic', 'bi-colored', 'two-toned', 'dual-hued']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/573726.jpg"
+    },
+    {
+        "id": "62",
+        "img_id": 12731,
+        "question": "What is the material used to make the train cars?",
+        "answer": "['model', 'miniature', 'scale', 'toy', 'plastic']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/12731.jpg"
+    },
+    {
+        "id": "108",
+        "img_id": 427291,
+        "question": "What is the posture of the person standing in the snow?",
+        "answer": "['standing', 'upright', 'erect', 'vertical', 'straight']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/427291.jpg"
+    },
+    {
+        "id": "200",
+        "img_id": 175195,
+        "question": "What is the shape of the object that is used to interact with the laptop?",
+        "answer": "['mouse', 'rodent', 'pointing device', 'cursor controller', 'navigation tool']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/175195.jpg"
+    },
+    {
+        "id": "390",
+        "img_id": 534829,
+        "question": "What is the attire of the people in the scene?",
+        "answer": "['casual', 'informal', 'everyday', 'relaxed', 'laid-back']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/534829.jpg"
+    },
+    {
+        "id": "4",
+        "img_id": 235545,
+        "question": "What is the purpose of the object being loaded onto the train?",
+        "answer": "['baggage', 'luggage', 'cargo', 'freight', 'goods']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/235545.jpg"
+    },
+    {
+        "id": "73",
+        "img_id": 417315,
+        "question": "What is the style or genre of the skateboarding depicted in the scene?",
+        "answer": "['extreme', 'freestyle', 'action', 'street', 'vert', 'aggressive']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/417315.jpg"
+    },
+    {
+        "id": "138",
+        "img_id": 98563,
+        "question": "What is the style or era of the vase?",
+        "answer": "['antique', 'vintage', 'classic', 'retro', 'old-fashioned']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/98563.jpg"
+    },
+    {
+        "id": "365",
+        "img_id": 525501,
+        "question": "What is the shape of the object being thrown or caught?",
+        "answer": "['disc', 'frisbee', 'flying disc', 'saucer', 'plate']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/525501.jpg"
+    },
+    {
+        "id": "133",
+        "img_id": 554426,
+        "question": "What is the shape of the flower on the cake?",
+        "answer": "['red', 'crimson', 'scarlet', 'vermilion']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/554426.jpg"
+    },
+    {
+        "id": "381",
+        "img_id": 468773,
+        "question": "What is the relationship between the cat and the computer mouse?",
+        "answer": "['adjacent', 'beside', 'next to', 'near', 'proximal']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/468773.jpg"
+    },
+    {
+        "id": "274",
+        "img_id": 165133,
+        "question": "What is the color pattern of the surfboard?",
+        "answer": "['black and white', 'monochrome', 'bi-colored', 'two-toned', 'striped']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/165133.jpg"
+    },
+    {
+        "id": "232",
+        "img_id": 127810,
+        "question": "What is the trajectory of the frisbee?",
+        "answer": "['flying', 'soaring', 'airborne', 'in mid-air', 'in flight']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/127810.jpg"
+    },
+    {
+        "id": "229",
+        "img_id": 18723,
+        "question": "What is the location of the clock tower?",
+        "answer": "['field', 'meadow', 'yard', 'landscape', 'scenery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/18723.jpg"
+    },
+    {
+        "id": "251",
+        "img_id": 414435,
+        "question": "What is the style of the shirt worn by the male doll?",
+        "answer": "['striped', 'striped-patterned', 'striped-textured', 'striped-design']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/414435.jpg"
+    },
+    {
+        "id": "266",
+        "img_id": 21051,
+        "question": "What is the type of boat being driven by the police officer?",
+        "answer": "['Coast Guard', 'patrol', 'law enforcement', 'police', 'official', 'government', 'enforcement', 'security']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/21051.jpg"
+    },
+    {
+        "id": "23",
+        "img_id": 212846,
+        "question": "What is the appearance of the fire hydrant's facial features?",
+        "answer": "['painted', 'decorated', 'adorned', 'embellished', 'ornamented']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/212846.jpg"
+    },
+    {
+        "id": "100",
+        "img_id": 166163,
+        "question": "What is the orientation of the skateboarder in the scene?",
+        "answer": "['airborne', 'aloft', 'suspended', 'elevated', 'in mid-air']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/166163.jpg"
+    },
+    {
+        "id": "19",
+        "img_id": 518592,
+        "question": "What is the proximity of the laptop to the food and beverage?",
+        "answer": "['adjacent', 'near', 'beside', 'close', 'nearby']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/518592.jpg"
+    },
+    {
+        "id": "20",
+        "img_id": 396188,
+        "question": "What is the type of vehicle being ridden by the cop?",
+        "answer": "['motorcycle', 'bike', 'cycle', 'motorbike']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/396188.jpg"
+    },
+    {
+        "id": "167",
+        "img_id": 430097,
+        "question": "What is the affiliation or ownership of the airplane?",
+        "answer": "['Royal Air Force', 'British', 'military', 'government']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/430097.jpg"
+    },
+    {
+        "id": "112",
+        "img_id": 86564,
+        "question": "What is the texture of the pastry being eaten by the child?",
+        "answer": "['frosted', 'sugary', 'sweet', 'creamy', 'soft']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/86564.jpg"
+    },
+    {
+        "id": "376",
+        "img_id": 565387,
+        "question": "What is the emotional state of the people surrounding the motorcyclist?",
+        "answer": "['concerned', 'worried', 'anxious', 'distressed', 'apprehensive']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/565387.jpg"
+    },
+    {
+        "id": "61",
+        "img_id": 303556,
+        "question": "What is the texture of the beach where the man and woman are playing with the frisbee?",
+        "answer": "['sandy', 'grainy', 'coarse', 'fine', 'powdery']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/303556.jpg"
+    },
+    {
+        "id": "13",
+        "img_id": 368893,
+        "question": "What is the shape of the sign?",
+        "answer": "['rectangular', 'square', 'flat']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/368893.jpg"
+    },
+    {
+        "id": "53",
+        "img_id": 499552,
+        "question": "What is the state of the woman's hair?",
+        "answer": "['wet', 'damp', 'moist', 'dripping', 'dripping wet']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/499552.jpg"
+    },
+    {
+        "id": "338",
+        "img_id": 577512,
+        "question": "What is the location of the clock tower?",
+        "answer": "['London', 'England', 'UK', 'Britain']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/577512.jpg"
+    },
+    {
+        "id": "115",
+        "img_id": 412847,
+        "question": "What is the posture or position of the giraffe?",
+        "answer": "['bending', 'stooping', 'crouching', 'kneeling', 'stoop']",
+        "task": "attribute",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/412847.jpg"
+    },
+    {
+        "id": "263",
+        "img_id": 309413,
+        "question": "How many baseball gloves, baseball bats, and people are there?",
+        "answer": "{'baseball glove': 1, 'baseball bat': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/309413.jpg"
+    },
+    {
+        "id": "292",
+        "img_id": 408681,
+        "question": "How many chairs, ovens, and people are there?",
+        "answer": "{'chair': 2, 'oven': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/408681.jpg"
+    },
+    {
+        "id": "297",
+        "img_id": 137395,
+        "question": "How many sports balls, people, and baseball bats are there?",
+        "answer": "{'sports ball': 1, 'person': 2, 'baseball bat': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/137395.jpg"
+    },
+    {
+        "id": "95",
+        "img_id": 229427,
+        "question": "How many potted plants, remotes, and people are there?",
+        "answer": "{'potted plant': 1, 'remote': 2, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/229427.jpg"
+    },
+    {
+        "id": "168",
+        "img_id": 111649,
+        "question": "How many boats, sports balls, and baseball bats are there?",
+        "answer": "{'boat': 2, 'sports ball': 1, 'baseball bat': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/111649.jpg"
+    },
+    {
+        "id": "68",
+        "img_id": 30347,
+        "question": "How many ovens, chairs, and people are there?",
+        "answer": "{'oven': 1, 'chair': 3, 'person': 4}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/30347.jpg"
+    },
+    {
+        "id": "252",
+        "img_id": 53479,
+        "question": "How many books, cell phones, and cups are there?",
+        "answer": "{'book': 3, 'cell phone': 1, 'cup': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/53479.jpg"
+    },
+    {
+        "id": "340",
+        "img_id": 425325,
+        "question": "How many beds, remotes, and people are there?",
+        "answer": "{'bed': 1, 'remote': 1, 'person': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/425325.jpg"
+    },
+    {
+        "id": "373",
+        "img_id": 69383,
+        "question": "How many chairs, dogs, and people are there?",
+        "answer": "{'chair': 2, 'dog': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/69383.jpg"
+    },
+    {
+        "id": "96",
+        "img_id": 446365,
+        "question": "How many spoons, cups, and cakes are there?",
+        "answer": "{'spoon': 2, 'cup': 1, 'cake': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/446365.jpg"
+    },
+    {
+        "id": "45",
+        "img_id": 380425,
+        "question": "How many cars, people, and baseball bats are there?",
+        "answer": "{'car': 1, 'person': 3, 'baseball bat': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/380425.jpg"
+    },
+    {
+        "id": "206",
+        "img_id": 353817,
+        "question": "How many potted plants, vases, and chairs are there?",
+        "answer": "{'potted plant': 1, 'vase': 2, 'chair': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/353817.jpg"
+    },
+    {
+        "id": "131",
+        "img_id": 71970,
+        "question": "How many buses, cows, and traffic lights are there?",
+        "answer": "{'bus': 1, 'cow': 3, 'traffic light': 3}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/71970.jpg"
+    },
+    {
+        "id": "278",
+        "img_id": 423083,
+        "question": "How many mice, tvs, and bottles are there?",
+        "answer": "{'mouse': 1, 'tv': 2, 'bottle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/423083.jpg"
+    },
+    {
+        "id": "49",
+        "img_id": 540569,
+        "question": "How many motorcycles, handbags, and buses are there?",
+        "answer": "{'motorcycle': 2, 'handbag': 2, 'bus': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/540569.jpg"
+    },
+    {
+        "id": "76",
+        "img_id": 253143,
+        "question": "How many ski, backpacks, and people are there?",
+        "answer": "{'skis': 2, 'backpack': 2, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/253143.jpg"
+    },
+    {
+        "id": "241",
+        "img_id": 301603,
+        "question": "How many cups, laptops, and clocks are there?",
+        "answer": "{'cup': 2, 'laptop': 1, 'clock': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/301603.jpg"
+    },
+    {
+        "id": "365",
+        "img_id": 56341,
+        "question": "How many tvs, chairs, and potted plants are there?",
+        "answer": "{'tv': 1, 'chair': 2, 'potted plant': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/56341.jpg"
+    },
+    {
+        "id": "105",
+        "img_id": 545317,
+        "question": "How many vases, sinks, and toilets are there?",
+        "answer": "{'vase': 2, 'sink': 1, 'toilet': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/545317.jpg"
+    },
+    {
+        "id": "203",
+        "img_id": 96288,
+        "question": "How many people, backpacks, and dogs are there?",
+        "answer": "{'person': 3, 'backpack': 3, 'dog': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/96288.jpg"
+    },
+    {
+        "id": "211",
+        "img_id": 146186,
+        "question": "How many vases, bowls, and sinks are there?",
+        "answer": "{'vase': 2, 'bowl': 2, 'sink': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/146186.jpg"
+    },
+    {
+        "id": "388",
+        "img_id": 53263,
+        "question": "How many dining tables, cakes, and people are there?",
+        "answer": "{'dining table': 1, 'cake': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/53263.jpg"
+    },
+    {
+        "id": "8",
+        "img_id": 65238,
+        "question": "How many sports balls, people, and tennis rackets are there?",
+        "answer": "{'sports ball': 1, 'person': 2, 'tennis racket': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/65238.jpg"
+    },
+    {
+        "id": "64",
+        "img_id": 94033,
+        "question": "How many people, frisbees, and handbags are there?",
+        "answer": "{'person': 2, 'frisbee': 2, 'handbag': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/94033.jpg"
+    },
+    {
+        "id": "260",
+        "img_id": 571719,
+        "question": "How many chairs, people, and cups are there?",
+        "answer": "{'chair': 2, 'person': 2, 'cup': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/571719.jpg"
+    },
+    {
+        "id": "150",
+        "img_id": 247234,
+        "question": "How many cars, couches, and laptops are there?",
+        "answer": "{'car': 2, 'couch': 1, 'laptop': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/247234.jpg"
+    },
+    {
+        "id": "349",
+        "img_id": 223595,
+        "question": "How many people, baseball bats, and sports balls are there?",
+        "answer": "{'person': 3, 'baseball bat': 1, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/223595.jpg"
+    },
+    {
+        "id": "352",
+        "img_id": 568731,
+        "question": "How many spoons, bowls, and sandwiches are there?",
+        "answer": "{'spoon': 1, 'bowl': 1, 'sandwich': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/568731.jpg"
+    },
+    {
+        "id": "147",
+        "img_id": 511062,
+        "question": "How many people, surfboards, and backpacks are there?",
+        "answer": "{'person': 2, 'surfboard': 1, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/511062.jpg"
+    },
+    {
+        "id": "51",
+        "img_id": 210752,
+        "question": "How many dining tables, bowls, and cakes are there?",
+        "answer": "{'dining table': 1, 'bowl': 1, 'cake': 7}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/210752.jpg"
+    },
+    {
+        "id": "251",
+        "img_id": 344271,
+        "question": "How many bottles, apples, and trains are there?",
+        "answer": "{'bottle': 2, 'apple': 1, 'train': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/344271.jpg"
+    },
+    {
+        "id": "231",
+        "img_id": 265744,
+        "question": "How many horses, cups, and people are there?",
+        "answer": "{'horse': 2, 'cup': 1, 'person': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/265744.jpg"
+    },
+    {
+        "id": "146",
+        "img_id": 516570,
+        "question": "How many baseball bats, people, and sports balls are there?",
+        "answer": "{'baseball bat': 1, 'person': 3, 'sports ball': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/516570.jpg"
+    },
+    {
+        "id": "52",
+        "img_id": 31081,
+        "question": "How many dining tables, people, and backpacks are there?",
+        "answer": "{'dining table': 2, 'person': 4, 'backpack': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/31081.jpg"
+    },
+    {
+        "id": "351",
+        "img_id": 124893,
+        "question": "How many couches, chairs, and tvs are there?",
+        "answer": "{'couch': 2, 'chair': 2, 'tv': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/124893.jpg"
+    },
+    {
+        "id": "194",
+        "img_id": 145637,
+        "question": "How many backpacks, surfboards, and people are there?",
+        "answer": "{'backpack': 1, 'surfboard': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/145637.jpg"
+    },
+    {
+        "id": "346",
+        "img_id": 200879,
+        "question": "How many toothbrushes, beds, and people are there?",
+        "answer": "{'toothbrush': 1, 'bed': 1, 'person': 2}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/200879.jpg"
+    },
+    {
+        "id": "323",
+        "img_id": 127603,
+        "question": "How many cars, trucks, and fire hydrants are there?",
+        "answer": "{'car': 2, 'truck': 1, 'fire hydrant': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/127603.jpg"
+    },
+    {
+        "id": "357",
+        "img_id": 367873,
+        "question": "How many books, horses, and beds are there?",
+        "answer": "{'book': 2, 'horse': 1, 'bed': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/367873.jpg"
+    },
+    {
+        "id": "113",
+        "img_id": 222370,
+        "question": "How many cars, people, and motorcycles are there?",
+        "answer": "{'car': 1, 'person': 3, 'motorcycle': 1}",
+        "task": "count",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/222370.jpg"
+    },
+    {
+        "id": "2",
+        "img_id": 72792,
+        "question": "What object is the woman walking through in the doorway?",
+        "answer": "['door', 'entrance', 'doorway', 'threshold', 'portal']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/72792.jpg"
+    },
+    {
+        "id": "371",
+        "img_id": 390797,
+        "question": "What is the object the young woman is holding up to her face?",
+        "answer": "['banana', 'fruit', 'yellow', 'phone', 'handheld', 'snack']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/390797.jpg"
+    },
+    {
+        "id": "321",
+        "img_id": 346547,
+        "question": "What is the object emerging from the five brown vases?",
+        "answer": "['stems', 'stalks', 'branches', 'wiry stems', 'plant stems']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/346547.jpg"
+    },
+    {
+        "id": "98",
+        "img_id": 362327,
+        "question": "What is the distinctive feature on the cat's face that is being highlighted in the captions?",
+        "answer": "['whiskers', 'long whiskers', 'facial hair', 'feline whiskers', 'cat whiskers']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/362327.jpg"
+    },
+    {
+        "id": "327",
+        "img_id": 128528,
+        "question": "What is the object worn by the dog on its shoulder/back while running in the snow?",
+        "answer": "['backpack', 'pack', 'bag', 'rucksack', 'knapsack']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/128528.jpg"
+    },
+    {
+        "id": "352",
+        "img_id": 572554,
+        "question": "What object is being held by the man in the scene?",
+        "answer": "['pastry', 'donut', 'treat', 'dessert', 'snack']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/572554.jpg"
+    },
+    {
+        "id": "297",
+        "img_id": 329341,
+        "question": "What is the object sitting inside the white counter?",
+        "answer": "['sink', 'sink cabinet', 'kitchen sink', 'basin', 'countertop']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/329341.jpg"
+    },
+    {
+        "id": "254",
+        "img_id": 553709,
+        "question": "What is the object being held by the man in the suit?",
+        "answer": "['cup', 'mug', 'coffee cup', 'tea cup', 'beverage container']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/553709.jpg"
+    },
+    {
+        "id": "200",
+        "img_id": 191203,
+        "question": "What is the object being ridden by the man in the wooded area?",
+        "answer": "['elephant', 'pachyderm', 'beast', 'animal', 'mammal']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/191203.jpg"
+    },
+    {
+        "id": "219",
+        "img_id": 291290,
+        "question": "What is the object attached to the side of the red train?",
+        "answer": "['fire hose', 'hose', 'water hose', 'firefighting equipment', 'train equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/291290.jpg"
+    },
+    {
+        "id": "232",
+        "img_id": 191061,
+        "question": "What type of vehicle is being used to sell food to the crowd of people?",
+        "answer": "['food truck', 'mobile truck', 'catering truck', 'street food vendor', 'mobile food stand', 'food cart', 'mobile catering unit']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/191061.jpg"
+    },
+    {
+        "id": "359",
+        "img_id": 349561,
+        "question": "What is the bird standing outside the door with clear windows?",
+        "answer": "['stork', 'bird', 'avian', 'wading bird', 'heron', 'crane']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/349561.jpg"
+    },
+    {
+        "id": "294",
+        "img_id": 299641,
+        "question": "What is the object sitting in the grassy field?",
+        "answer": "['wooden boat', 'boat', 'ride', 'enclosure', 'play structure', 'playhouse', 'play area', 'merry-go-round', 'carousel']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/299641.jpg"
+    },
+    {
+        "id": "323",
+        "img_id": 499108,
+        "question": "What object is the little girl sitting in front of?",
+        "answer": "['heart-shaped cake', 'birthday cake', 'cake', 'dessert']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/499108.jpg"
+    },
+    {
+        "id": "165",
+        "img_id": 335566,
+        "question": "What object is the giraffes standing next to?",
+        "answer": "['enclosure', 'fence', 'wall', 'barrier', 'boundary', 'perimeter']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/335566.jpg"
+    },
+    {
+        "id": "205",
+        "img_id": 308592,
+        "question": "What object is holding the pizza?",
+        "answer": "['pizza box', 'cardboard box', 'container', 'food box']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/308592.jpg"
+    },
+    {
+        "id": "218",
+        "img_id": 16283,
+        "question": "What object is being prepared in the kitchen by the group of people?",
+        "answer": "['pizza dough', 'pizza crust', 'pizza base', 'pizza maker', 'pizza stone', 'pizza peel', 'pizza pan', 'pizza oven', 'pizza toppings', 'pizza sauce', 'pizza cheese', 'pizza ingredients']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/16283.jpg"
+    },
+    {
+        "id": "185",
+        "img_id": 454252,
+        "question": "What object is being held by the group of people in the room?",
+        "answer": "['wine glasses', 'glasses', 'cups', 'stemware', 'drinkware']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/454252.jpg"
+    },
+    {
+        "id": "302",
+        "img_id": 492138,
+        "question": "What object is one of the women holding in the snow?",
+        "answer": "['snowboard', 'snowboarder', 'board', 'winter sports equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/492138.jpg"
+    },
+    {
+        "id": "225",
+        "img_id": 309005,
+        "question": "What object is sitting in the cluttered living room?",
+        "answer": "['stroller', 'baby carriage', 'pram', 'pushchair']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/309005.jpg"
+    },
+    {
+        "id": "295",
+        "img_id": 167452,
+        "question": "What object is being held by the man in front of the ornate teddy bears?",
+        "answer": "['electric guitar', 'wooden guitar', 'guitar']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/167452.jpg"
+    },
+    {
+        "id": "166",
+        "img_id": 87115,
+        "question": "What is the object that the group of people are waiting for at the bus stop?",
+        "answer": "['skis', 'ski equipment', 'winter gear', 'snow gear', 'snow sports equipment']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/87115.jpg"
+    },
+    {
+        "id": "40",
+        "img_id": 481796,
+        "question": "What object is placed on the desk, holding the two computer screens?",
+        "answer": "['keyboard', 'computer', 'monitor', 'desktop', 'workstation', 'console']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/481796.jpg"
+    },
+    {
+        "id": "55",
+        "img_id": 467491,
+        "question": "What is the type of bird standing next to each other in the marshland?",
+        "answer": "['cranes', 'ducks', 'waterfowl', 'birds', 'white birds']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/467491.jpg"
+    },
+    {
+        "id": "171",
+        "img_id": 19738,
+        "question": "What is the object on the plate that is not the plate itself?",
+        "answer": "['cake', 'dessert', 'pastry', 'sweet', 'treat']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/19738.jpg"
+    },
+    {
+        "id": "153",
+        "img_id": 86189,
+        "question": "What type of vehicle is the woman riding down the street?",
+        "answer": "['beach cruiser', 'bicycle', 'bike']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/86189.jpg"
+    },
+    {
+        "id": "20",
+        "img_id": 561097,
+        "question": "What is the object that the horses are standing next to in the field?",
+        "answer": "['fence', 'railing', 'barrier', 'enclosure', 'boundary']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/561097.jpg"
+    },
+    {
+        "id": "6",
+        "img_id": 331900,
+        "question": "What object is hanging from the tree in the scene?",
+        "answer": "['ropes', 'cattle tie', 'halter', 'lasso', 'cord']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/331900.jpg"
+    },
+    {
+        "id": "78",
+        "img_id": 87595,
+        "question": "What object is the white cat sitting next to or leaning on?",
+        "answer": "['laptop', 'computer', 'monitor', 'notebook', 'portable computer']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/87595.jpg"
+    },
+    {
+        "id": "274",
+        "img_id": 228565,
+        "question": "What is the object that the zebra is moving in the field?",
+        "answer": "['tail', 'swinging tail', 'wagging tail', 'swishing tail']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/228565.jpg"
+    },
+    {
+        "id": "325",
+        "img_id": 414350,
+        "question": "What is the object with multiple markers hanging every which way?",
+        "answer": "['street sign', 'road sign', 'directional sign', 'signpost', 'marker', 'indicator']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/414350.jpg"
+    },
+    {
+        "id": "177",
+        "img_id": 64616,
+        "question": "What is the object fashioned to look like a train and placed next to the tiled wall?",
+        "answer": "['cake', 'birthday cake', 'train cake', 'dessert', 'pastry']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/64616.jpg"
+    },
+    {
+        "id": "152",
+        "img_id": 299732,
+        "question": "What object is the couple of teddy bears sitting up against?",
+        "answer": "['teddy bears', 'stuffed animals', 'plush toys', 'cuddly toys', 'soft toys']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/299732.jpg"
+    },
+    {
+        "id": "235",
+        "img_id": 377619,
+        "question": "What object is situated in the middle of the dirt road?",
+        "answer": "['traffic light', 'railroad crossing', 'crossing sign', 'intersection', 'stoplight']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/377619.jpg"
+    },
+    {
+        "id": "343",
+        "img_id": 132991,
+        "question": "What is the object worn by the group of people in front of the building?",
+        "answer": "['tie', 'scarf', 'necktie', 'neckwear']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/132991.jpg"
+    },
+    {
+        "id": "264",
+        "img_id": 521995,
+        "question": "What is the object sitting on the desk in front of the window?",
+        "answer": "['laptop', 'computer', 'notebook', 'portable computer', 'desktop computer']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/521995.jpg"
+    },
+    {
+        "id": "215",
+        "img_id": 155285,
+        "question": "What is the object worn by the young boy in the picture?",
+        "answer": "['tie', 'necktie', 'necktie', 'name tag']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/155285.jpg"
+    },
+    {
+        "id": "214",
+        "img_id": 242656,
+        "question": "What object is the cattle grazing behind?",
+        "answer": "['fence', 'enclosure', 'barrier', 'boundary', 'railing']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/242656.jpg"
+    },
+    {
+        "id": "298",
+        "img_id": 493939,
+        "question": "What is the type of bathtub featured in the bathroom scene?",
+        "answer": "['claw foot tub', 'clawfoot bathtub', 'antique tub', 'vintage bathtub', 'slipper tub']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/493939.jpg"
+    },
+    {
+        "id": "164",
+        "img_id": 167317,
+        "question": "What is the object the person is using to fly through the air?",
+        "answer": "['skateboard', 'board', 'tricking board', 'aerial board', 'flying board']",
+        "task": "identification",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/167317.jpg"
+    },
+    {
+        "id": "187",
+        "img_id": 501696,
+        "question": "Where is the book in relation to the suitcase?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/501696.jpg"
+    },
+    {
+        "id": "211",
+        "img_id": 436127,
+        "question": "Where is the car in relation to the bus?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/436127.jpg"
+    },
+    {
+        "id": "18",
+        "img_id": 270024,
+        "question": "Where is the vase in relation to the couch?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/270024.jpg"
+    },
+    {
+        "id": "276",
+        "img_id": 158044,
+        "question": "Where is the remote in relation to the chair?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/158044.jpg"
+    },
+    {
+        "id": "344",
+        "img_id": 38034,
+        "question": "Where is the chair in relation to the keyboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/38034.jpg"
+    },
+    {
+        "id": "84",
+        "img_id": 579165,
+        "question": "Where is the spoon in relation to the broccoli?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/579165.jpg"
+    },
+    {
+        "id": "270",
+        "img_id": 95133,
+        "question": "Where is the toilet in relation to the sink?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/95133.jpg"
+    },
+    {
+        "id": "152",
+        "img_id": 544089,
+        "question": "Where is the book in relation to the cake?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/544089.jpg"
+    },
+    {
+        "id": "67",
+        "img_id": 391971,
+        "question": "Where is the tennis racket in relation to the chair?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/391971.jpg"
+    },
+    {
+        "id": "96",
+        "img_id": 515574,
+        "question": "Where is the tv in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/515574.jpg"
+    },
+    {
+        "id": "134",
+        "img_id": 388066,
+        "question": "Where is the keyboard in relation to the knife?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/388066.jpg"
+    },
+    {
+        "id": "60",
+        "img_id": 24498,
+        "question": "Where is the sink in relation to the cup?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/24498.jpg"
+    },
+    {
+        "id": "114",
+        "img_id": 420649,
+        "question": "Where is the laptop in relation to the cell phone?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/420649.jpg"
+    },
+    {
+        "id": "164",
+        "img_id": 216685,
+        "question": "Where is the fork in relation to the bottle?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/216685.jpg"
+    },
+    {
+        "id": "214",
+        "img_id": 519429,
+        "question": "Where is the umbrella in relation to the dining table?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/519429.jpg"
+    },
+    {
+        "id": "72",
+        "img_id": 332705,
+        "question": "Where is the person in relation to the dining table?",
+        "answer": "above",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/332705.jpg"
+    },
+    {
+        "id": "129",
+        "img_id": 273898,
+        "question": "Where is the truck in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/273898.jpg"
+    },
+    {
+        "id": "272",
+        "img_id": 67838,
+        "question": "Where is the boat in relation to the surfboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/67838.jpg"
+    },
+    {
+        "id": "130",
+        "img_id": 288313,
+        "question": "Where is the bowl in relation to the cup?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/288313.jpg"
+    },
+    {
+        "id": "393",
+        "img_id": 62703,
+        "question": "Where is the bed in relation to the keyboard?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/62703.jpg"
+    },
+    {
+        "id": "201",
+        "img_id": 301397,
+        "question": "Where is the person in relation to the cell phone?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/301397.jpg"
+    },
+    {
+        "id": "144",
+        "img_id": 194247,
+        "question": "Where is the backpack in relation to the laptop?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/194247.jpg"
+    },
+    {
+        "id": "387",
+        "img_id": 99942,
+        "question": "Where is the wine glass in relation to the clock?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/99942.jpg"
+    },
+    {
+        "id": "103",
+        "img_id": 137150,
+        "question": "Where is the cow in relation to the truck?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/137150.jpg"
+    },
+    {
+        "id": "25",
+        "img_id": 371654,
+        "question": "Where is the chair in relation to the dining table?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/371654.jpg"
+    },
+    {
+        "id": "57",
+        "img_id": 139930,
+        "question": "Where is the bottle in relation to the handbag?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/139930.jpg"
+    },
+    {
+        "id": "94",
+        "img_id": 244317,
+        "question": "Where is the donut in relation to the person?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/244317.jpg"
+    },
+    {
+        "id": "79",
+        "img_id": 184550,
+        "question": "Where is the handbag in relation to the bed?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/184550.jpg"
+    },
+    {
+        "id": "93",
+        "img_id": 576792,
+        "question": "Where is the person in relation to the bench?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/576792.jpg"
+    },
+    {
+        "id": "26",
+        "img_id": 310035,
+        "question": "Where is the person in relation to the handbag?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/310035.jpg"
+    },
+    {
+        "id": "217",
+        "img_id": 564288,
+        "question": "Where is the handbag in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/564288.jpg"
+    },
+    {
+        "id": "223",
+        "img_id": 435218,
+        "question": "Where is the bottle in relation to the oven?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/435218.jpg"
+    },
+    {
+        "id": "302",
+        "img_id": 21190,
+        "question": "Where is the mouse in relation to the keyboard?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/21190.jpg"
+    },
+    {
+        "id": "120",
+        "img_id": 358334,
+        "question": "Where is the vase in relation to the bottle?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/358334.jpg"
+    },
+    {
+        "id": "220",
+        "img_id": 258093,
+        "question": "Where is the remote in relation to the bed?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/258093.jpg"
+    },
+    {
+        "id": "259",
+        "img_id": 449936,
+        "question": "Where is the dining table in relation to the microwave?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/449936.jpg"
+    },
+    {
+        "id": "354",
+        "img_id": 320253,
+        "question": "Where is the suitcase in relation to the handbag?",
+        "answer": "left",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/320253.jpg"
+    },
+    {
+        "id": "326",
+        "img_id": 346596,
+        "question": "Where is the suitcase in relation to the bicycle?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/346596.jpg"
+    },
+    {
+        "id": "332",
+        "img_id": 128254,
+        "question": "Where is the sink in relation to the book?",
+        "answer": "below",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/128254.jpg"
+    },
+    {
+        "id": "102",
+        "img_id": 307156,
+        "question": "Where is the chair in relation to the clock?",
+        "answer": "right",
+        "task": "spatial",
+        "image": "/Users/yuanlingzhi/Desktop/change_data/data/image-to-text/ood/images/pixelate/307156.jpg"
+    }
+]
