@@ -1,6 +1,6 @@
 # MMDT_i2t_data
 The code to upload MMDT's data onto huggingface  
-Contain 5 perspectives: adversarial robustness, fairness, privacy, hallucination and ood
+Contain 6 perspectives: adversarial robustness, fairness, privacy, hallucination, ood and safety.
 # Key of each perspective
 ## adv:
 origin_attribute: the original attribute of data in split "attribute"   
